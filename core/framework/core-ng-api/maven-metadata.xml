@@ -3,7 +3,7 @@
   <groupId>core.framework</groupId>
   <artifactId>core-ng-api</artifactId>
   <versioning>
-    <release>5.3.2</release>
+    <release>5.3.3</release>
     <versions>
       <version>4.7.8</version>
       <version>4.7.9</version>
@@ -71,7 +71,8 @@
       <version>5.3.0</version>
       <version>5.3.1</version>
       <version>5.3.2</version>
+      <version>5.3.3</version>
     </versions>
-    <lastUpdated>20180201022037</lastUpdated>
+    <lastUpdated>20180204044953</lastUpdated>
   </versioning>
 </metadata>
