@@ -3,7 +3,7 @@
   <groupId>core.framework</groupId>
   <artifactId>core-ng-search</artifactId>
   <versioning>
-    <release>6.8.3</release>
+    <release>6.8.4</release>
     <versions>
       <version>6.3.0</version>
       <version>6.3.1</version>
@@ -33,7 +33,8 @@
       <version>6.8.1</version>
       <version>6.8.2</version>
       <version>6.8.3</version>
+      <version>6.8.4</version>
     </versions>
-    <lastUpdated>20180918172427</lastUpdated>
+    <lastUpdated>20180921000516</lastUpdated>
   </versioning>
 </metadata>
