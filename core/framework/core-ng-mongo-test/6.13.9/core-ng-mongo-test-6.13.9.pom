@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>core.framework</groupId>
+  <artifactId>core-ng-mongo-test</artifactId>
+  <version>6.13.9</version>
+  <dependencies>
+    <dependency>
+      <groupId>core.framework</groupId>
+      <artifactId>core-ng-test</artifactId>
+      <version>6.13.9</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>core.framework</groupId>
+      <artifactId>core-ng-mongo</artifactId>
+      <version>6.13.9</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.bwaldvogel</groupId>
+      <artifactId>mongo-java-server</artifactId>
+      <version>1.17.1</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>
