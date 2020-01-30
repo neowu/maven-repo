@@ -3,8 +3,8 @@
   <groupId>core.framework</groupId>
   <artifactId>core-ng-search-test</artifactId>
   <versioning>
-    <latest>7.3.3</latest>
-    <release>7.3.3</release>
+    <latest>7.3.4</latest>
+    <release>7.3.4</release>
     <versions>
       <version>6.3.0</version>
       <version>6.3.1</version>
@@ -112,7 +112,8 @@
       <version>7.3.1</version>
       <version>7.3.2</version>
       <version>7.3.3</version>
+      <version>7.3.4</version>
     </versions>
-    <lastUpdated>20200124015219</lastUpdated>
+    <lastUpdated>20200130212237</lastUpdated>
   </versioning>
 </metadata>
