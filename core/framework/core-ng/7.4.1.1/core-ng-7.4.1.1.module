@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "ulgfwrzehzgwtop2m46msbzdtu"
+      "buildId": "3mlsin3fvvb55bqty7rjpsuugu"
     }
   },
   "variants": [
@@ -44,11 +44,11 @@
         {
           "name": "core-ng-7.4.1.1.jar",
           "url": "core-ng-7.4.1.1.jar",
-          "size": 613905,
-          "sha512": "2a0cead2c24a78f896309a57eb80a8283523cee76bf49ec6e00f24d4fbb3aa919137b172f56e2c47edd0c585dd6083bc0b75be6e877ebc4387ee602bf5068b4c",
-          "sha256": "c4f36ddee675d02f018bdb9d395ced9ffcba980ea69a141eb053306845c9c844",
-          "sha1": "930b42ed52c547542caa81ff4e6596101702facd",
-          "md5": "1448c2949dfff510e3085a70f802ac34"
+          "size": 613906,
+          "sha512": "cddec4243e40d8ebc2b87d3baaf79af93e3e99fcd615e8e845673f78412dc1380f174fb329e71c2ef9a538791e00de742a98cdf6bcc31f6951a2f86dfaf01f4a",
+          "sha256": "329480650e10fafaedc288023e4fe5f3e16f31c39135ca97bdfd42247526ba5f",
+          "sha1": "a4fed7ca618a6d6aea566fe11d775da725050ff0",
+          "md5": "eae9623028e0ed1dbc33e0cc43a96ce7"
         }
       ]
     },
@@ -101,7 +101,7 @@
           "group": "org.apache.kafka",
           "module": "kafka-clients",
           "version": {
-            "requires": "2.5.0"
+            "requires": "2.4.1"
           },
           "excludes": [
             {
@@ -143,11 +143,11 @@
         {
           "name": "core-ng-7.4.1.1.jar",
           "url": "core-ng-7.4.1.1.jar",
-          "size": 613905,
-          "sha512": "2a0cead2c24a78f896309a57eb80a8283523cee76bf49ec6e00f24d4fbb3aa919137b172f56e2c47edd0c585dd6083bc0b75be6e877ebc4387ee602bf5068b4c",
-          "sha256": "c4f36ddee675d02f018bdb9d395ced9ffcba980ea69a141eb053306845c9c844",
-          "sha1": "930b42ed52c547542caa81ff4e6596101702facd",
-          "md5": "1448c2949dfff510e3085a70f802ac34"
+          "size": 613906,
+          "sha512": "cddec4243e40d8ebc2b87d3baaf79af93e3e99fcd615e8e845673f78412dc1380f174fb329e71c2ef9a538791e00de742a98cdf6bcc31f6951a2f86dfaf01f4a",
+          "sha256": "329480650e10fafaedc288023e4fe5f3e16f31c39135ca97bdfd42247526ba5f",
+          "sha1": "a4fed7ca618a6d6aea566fe11d775da725050ff0",
+          "md5": "eae9623028e0ed1dbc33e0cc43a96ce7"
         }
       ]
     },
@@ -163,11 +163,11 @@
         {
           "name": "core-ng-7.4.1.1-sources.jar",
           "url": "core-ng-7.4.1.1-sources.jar",
-          "size": 313695,
-          "sha512": "995398962ba5df4418b40532c15a076c301469d6b2fe7a0fc88c86ef45a0ab193c3337e69d591a97255ba9f04496fc0872cc22926a67e7d78f53589eade0a064",
-          "sha256": "1e93900eca6749bd8d31fe25415ffc7d79f8bbe644d1c4d054868836202c075c",
-          "sha1": "ba483e98897fb6c5f8a3c54bd43f8c0b7352f752",
-          "md5": "ac56ec1228967e6c933ec458fa7f2875"
+          "size": 313696,
+          "sha512": "47866015c0b45bcb3ba50fcd6ce80be5eb1a28cf9b20cd9913d6ceede468d073b06fca29156694be008d58a2c180e3b4292bfd76d153867f230789a753a0f01b",
+          "sha256": "d548fa03a8cb313b4045808e789c1b7fe1a0b117eca33a90a81803dcbeb22fb8",
+          "sha1": "edf7bb734f33ffc4b5916b13b246bd9fa96acb7d",
+          "md5": "73c376f435400cd029be4d388896031e"
         }
       ]
     }

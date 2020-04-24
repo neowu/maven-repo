@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "ulgfwrzehzgwtop2m46msbzdtu"
+      "buildId": "3mlsin3fvvb55bqty7rjpsuugu"
     }
   },
   "variants": [
@@ -45,10 +45,10 @@
           "name": "core-ng-search-test-7.4.1.1.jar",
           "url": "core-ng-search-test-7.4.1.1.jar",
           "size": 8918,
-          "sha512": "11e4f4cd97004ed762b28b0ff8440e5d472313f9cd83c1f8dae74b9edc0af366d04f2aa3b264d39d9a127d2ce08a0bcb6a13fc5c9be0ca7ab348cccda15efaba",
-          "sha256": "e521dc2d12bbdfd89aea5536cb1a87bd829ad0c314323a25de5bca5feb980ff1",
-          "sha1": "08ca759800e3af91d2139f6f6747edc903e7dcae",
-          "md5": "14839e2858fa8a4819064b772a116cba"
+          "sha512": "eae25ece6fe08e0f62f43c6511bb0339bd2717deede3f16632e65408ca67a9b38b4ee8dd888b5ae539966cd2358376316b5b68fed27d2a0d99aef7ca98c34718",
+          "sha256": "956248246a1a7383265147b4979a6afd9332e6b3a906ff4f9972c719d2b0732d",
+          "sha1": "d4802ced15b2fdd6b1f43513f6c87fb9e1b71c72",
+          "md5": "9d65a8090291025a82435abb5313df98"
         }
       ]
     },
@@ -124,10 +124,10 @@
           "name": "core-ng-search-test-7.4.1.1.jar",
           "url": "core-ng-search-test-7.4.1.1.jar",
           "size": 8918,
-          "sha512": "11e4f4cd97004ed762b28b0ff8440e5d472313f9cd83c1f8dae74b9edc0af366d04f2aa3b264d39d9a127d2ce08a0bcb6a13fc5c9be0ca7ab348cccda15efaba",
-          "sha256": "e521dc2d12bbdfd89aea5536cb1a87bd829ad0c314323a25de5bca5feb980ff1",
-          "sha1": "08ca759800e3af91d2139f6f6747edc903e7dcae",
-          "md5": "14839e2858fa8a4819064b772a116cba"
+          "sha512": "eae25ece6fe08e0f62f43c6511bb0339bd2717deede3f16632e65408ca67a9b38b4ee8dd888b5ae539966cd2358376316b5b68fed27d2a0d99aef7ca98c34718",
+          "sha256": "956248246a1a7383265147b4979a6afd9332e6b3a906ff4f9972c719d2b0732d",
+          "sha1": "d4802ced15b2fdd6b1f43513f6c87fb9e1b71c72",
+          "md5": "9d65a8090291025a82435abb5313df98"
         }
       ]
     },
@@ -144,10 +144,10 @@
           "name": "core-ng-search-test-7.4.1.1-sources.jar",
           "url": "core-ng-search-test-7.4.1.1-sources.jar",
           "size": 5093,
-          "sha512": "1d9b392fe909d2672f9a372bdf1923f59adb38c2e99adc60073930ec256e437ac903699056706b313a2087d1061b9eaf08cc533aef2cda879d2fc238abdb9383",
-          "sha256": "3197f37a816ad022fdeb6af11b393b85499a56f15cc444812f32c6563968a1f1",
-          "sha1": "e650e01256947d6c2d585675d17818c9114e87e3",
-          "md5": "6b65ab33060f3fb33faa14782ff8a87a"
+          "sha512": "3433ef1a99f54e67683e4254ee0f7582eadc79a5408e8cba25612ce52fefc15852da45f8b8a99b2004258184c121d6b9e090f7bbaba6a5adfb0dffaf2df4010c",
+          "sha256": "8b1fb6d5b5652c9fd47094d87e69f4e928d83ee85d4beef16498d6735d6e27bb",
+          "sha1": "2d8435c6b52b42391bf7e3fe1a680574e96058f8",
+          "md5": "9dbad6fbe7ba7ea85e5e5cf4fcb4959e"
         }
       ]
     }

@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "ulgfwrzehzgwtop2m46msbzdtu"
+      "buildId": "3mlsin3fvvb55bqty7rjpsuugu"
     }
   },
   "variants": [
@@ -44,11 +44,11 @@
         {
           "name": "core-ng-mongo-test-7.4.1.1.jar",
           "url": "core-ng-mongo-test-7.4.1.1.jar",
-          "size": 2341,
-          "sha512": "a7361c51a4e635112d8def3b82b9e1375cb5cc15da99c558d7a86012746abb1fdcde77b3db4e1cabb7940ecf69e4e09fe126af195cb2fd4394d4c465b95aec67",
-          "sha256": "6b8fdc87cbbfffb4474312efec1a29431ec4975073b1d43b9af07abc927b55a9",
-          "sha1": "82c3a23b1354a7c62762d534aeba5cef56c940de",
-          "md5": "ce8fdfb778e59841462e6edda56c5788"
+          "size": 2342,
+          "sha512": "1047305e2657f41fe3aaa8b2841ff1ffaaa58b5404373a288f8c2876082fa3360aba92339e7a1d30731eb6358d16d02607ac5e17ca0c731e90d77f8f0addc4d0",
+          "sha256": "d7fbde96a4af774acc061c8a1357ab25cdee2121bad33c5d76bd34a32fc5cc8f",
+          "sha1": "d25e2a43a1c36fd219411cc9e5c1613242914120",
+          "md5": "73b9a0ca38033c0f5ec569ce1673e1b2"
         }
       ]
     },
@@ -88,11 +88,11 @@
         {
           "name": "core-ng-mongo-test-7.4.1.1.jar",
           "url": "core-ng-mongo-test-7.4.1.1.jar",
-          "size": 2341,
-          "sha512": "a7361c51a4e635112d8def3b82b9e1375cb5cc15da99c558d7a86012746abb1fdcde77b3db4e1cabb7940ecf69e4e09fe126af195cb2fd4394d4c465b95aec67",
-          "sha256": "6b8fdc87cbbfffb4474312efec1a29431ec4975073b1d43b9af07abc927b55a9",
-          "sha1": "82c3a23b1354a7c62762d534aeba5cef56c940de",
-          "md5": "ce8fdfb778e59841462e6edda56c5788"
+          "size": 2342,
+          "sha512": "1047305e2657f41fe3aaa8b2841ff1ffaaa58b5404373a288f8c2876082fa3360aba92339e7a1d30731eb6358d16d02607ac5e17ca0c731e90d77f8f0addc4d0",
+          "sha256": "d7fbde96a4af774acc061c8a1357ab25cdee2121bad33c5d76bd34a32fc5cc8f",
+          "sha1": "d25e2a43a1c36fd219411cc9e5c1613242914120",
+          "md5": "73b9a0ca38033c0f5ec569ce1673e1b2"
         }
       ]
     },
@@ -108,11 +108,11 @@
         {
           "name": "core-ng-mongo-test-7.4.1.1-sources.jar",
           "url": "core-ng-mongo-test-7.4.1.1-sources.jar",
-          "size": 1575,
-          "sha512": "c4a8dda4226dae04cdeee7996f550e3337d4c0d5daf2e2adff78c79f60bab03cada790af98abce047f9dc9cb0e10f1d27a848b28bc80dae26fe30a45293e6e53",
-          "sha256": "6eb59fe9345008f93b00f1524f16af1fb7aeb56dd6a77e20cf65c2c1ac4cf34a",
-          "sha1": "8782cacf47b1f566ddc6c097cebe3a4fa689ffa1",
-          "md5": "c80ae13b17e6b8208235d5f970794989"
+          "size": 1576,
+          "sha512": "54669156b319434d6b0cb23e1c278bc3ae7cff52f7a9b12ca93132b1497e233654e3cc5a9a460ae6eb2517c9fe93406deefef749acf1de5dfbc9bce46d10de0c",
+          "sha256": "3326be01ac028b14c27ba6c8b4001705aaaf0ac5783d011e005ff0c0400ece29",
+          "sha1": "0312f7a6a9b612bc6290f6bc12a6d204e2fa4224",
+          "md5": "8df7b6b356e56b82f9661ced51fddc1b"
         }
       ]
     }

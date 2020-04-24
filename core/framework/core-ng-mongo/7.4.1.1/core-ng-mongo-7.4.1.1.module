@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "ulgfwrzehzgwtop2m46msbzdtu"
+      "buildId": "3mlsin3fvvb55bqty7rjpsuugu"
     }
   },
   "variants": [
@@ -45,10 +45,10 @@
           "name": "core-ng-mongo-7.4.1.1.jar",
           "url": "core-ng-mongo-7.4.1.1.jar",
           "size": 54185,
-          "sha512": "5da52e26db685e432a26fb4595122c513453fc560f3e22acab61efefaa75bd094bffcbf47735e1718d4acd8c61ad9fdc02ea08ae22a473b8c9676a3461ae80f4",
-          "sha256": "c2b9baa422c691776e4ba252b6d4d8b3d55a23d9b411fe286ad208f3af63ca01",
-          "sha1": "d3e99fd12b029c949521d8d25402414974c68c84",
-          "md5": "5ebc2e5995f1adfcc2e83a777f06bacd"
+          "sha512": "fc3efb690011ee500b32c499669fd466cbc2e18bbe7e679369f7df5529aa257367d7a9e1d60b8ce8dfbc7d5eaed18cdb61e14810b70355ea29ec9eeb0e147dd7",
+          "sha256": "a0bdd3570cf8457a69e3ab72338eca9340ce23bfda06d6f5bdaae4985d73b9cc",
+          "sha1": "f1f4bfe2de67c06ee26d910cc633c06be3554de6",
+          "md5": "6ddf6e5238b3d37eace8117ba94a2f23"
         }
       ]
     },
@@ -82,10 +82,10 @@
           "name": "core-ng-mongo-7.4.1.1.jar",
           "url": "core-ng-mongo-7.4.1.1.jar",
           "size": 54185,
-          "sha512": "5da52e26db685e432a26fb4595122c513453fc560f3e22acab61efefaa75bd094bffcbf47735e1718d4acd8c61ad9fdc02ea08ae22a473b8c9676a3461ae80f4",
-          "sha256": "c2b9baa422c691776e4ba252b6d4d8b3d55a23d9b411fe286ad208f3af63ca01",
-          "sha1": "d3e99fd12b029c949521d8d25402414974c68c84",
-          "md5": "5ebc2e5995f1adfcc2e83a777f06bacd"
+          "sha512": "fc3efb690011ee500b32c499669fd466cbc2e18bbe7e679369f7df5529aa257367d7a9e1d60b8ce8dfbc7d5eaed18cdb61e14810b70355ea29ec9eeb0e147dd7",
+          "sha256": "a0bdd3570cf8457a69e3ab72338eca9340ce23bfda06d6f5bdaae4985d73b9cc",
+          "sha1": "f1f4bfe2de67c06ee26d910cc633c06be3554de6",
+          "md5": "6ddf6e5238b3d37eace8117ba94a2f23"
         }
       ]
     },
@@ -101,11 +101,11 @@
         {
           "name": "core-ng-mongo-7.4.1.1-sources.jar",
           "url": "core-ng-mongo-7.4.1.1-sources.jar",
-          "size": 25670,
-          "sha512": "517c895899b517910404b99fa17f439a888fdd44e8b50476ada69468664eb40d962fc603ff389f148830240363417ac08bc61a44e81af89d5d8a09b8e74b34f2",
-          "sha256": "d82120b0cc7dc22d87e45b8e0f4721c4b348d338b4d136e370498b26a8bfca60",
-          "sha1": "2da8d80d2e72f6a38004e25e2a8e2872fc118336",
-          "md5": "b01234ddd2512e243f7c68c055dda1cb"
+          "size": 25671,
+          "sha512": "b2128a44c364cc4fee064fcfe00219d40cf041bed910c47e4ef066e53f72fafe595a65577c7107daac0a3537c0668653867aad360f82a6193b04a6cc1fbcf412",
+          "sha256": "8ba634fd7a128f3297892d82c5b8a683c052337ff5440e5ffdab461c3e9bd42a",
+          "sha1": "03ebed6a248f78f20aee1bb50ccb52f0ba5bbb5a",
+          "md5": "d96e1c1d440678a3f629eec699ed2188"
         }
       ]
     }
