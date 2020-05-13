@@ -1,0 +1,81 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-api",
+    "version": "7.4.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.4",
+      "buildId": "r2yzj2bdcnc77m277me4ku3vya"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "core-ng-api-7.4.3.jar",
+          "url": "core-ng-api-7.4.3.jar",
+          "size": 10951,
+          "sha512": "4285f9ab00d4f2aaf6d3e0bae9660e0c312982b6a468f656b4d58d7821885e7802883f2fb5f74f7069ae33c9ce2a35d9e2a40a65fb07fff9580a2d9b68711b3e",
+          "sha256": "35779477bdfa943e9842363a9f730abf6bcd80f3b00025101860b369e098f4d5",
+          "sha1": "43274102a33b2b21a9a31c76c397661adfd2cc3d",
+          "md5": "1f876465964eb329e970c05d83d4707e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-api-7.4.3.jar",
+          "url": "core-ng-api-7.4.3.jar",
+          "size": 10951,
+          "sha512": "4285f9ab00d4f2aaf6d3e0bae9660e0c312982b6a468f656b4d58d7821885e7802883f2fb5f74f7069ae33c9ce2a35d9e2a40a65fb07fff9580a2d9b68711b3e",
+          "sha256": "35779477bdfa943e9842363a9f730abf6bcd80f3b00025101860b369e098f4d5",
+          "sha1": "43274102a33b2b21a9a31c76c397661adfd2cc3d",
+          "md5": "1f876465964eb329e970c05d83d4707e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-api-7.4.3-sources.jar",
+          "url": "core-ng-api-7.4.3-sources.jar",
+          "size": 8600,
+          "sha512": "cc82c91ad8869f0090ec1da6afa94fad0e5cdcbbe00de4a2a79a6ffcb27dbcf82509d07fefbcd55be438dda85812ae372791b554631377a3228bb92c189b2140",
+          "sha256": "2def0348fb88e3838d4f129be16e108ea850cae876426c907ff1ce4215bf4531",
+          "sha1": "e1bc677fa36944b9104f38378e363c8b085a52ec",
+          "md5": "018cd56d0a80fa30812514d698c882f2"
+        }
+      ]
+    }
+  ]
+}
