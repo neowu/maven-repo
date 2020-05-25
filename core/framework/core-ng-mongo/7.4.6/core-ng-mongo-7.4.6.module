@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.4.1",
-      "buildId": "bqukoiyrmvevlkfibgqynfucsm"
+      "buildId": "tiw26whr7vh43djrdosu3oi4rq"
     }
   },
   "variants": [
@@ -44,11 +44,11 @@
         {
           "name": "core-ng-mongo-7.4.6.jar",
           "url": "core-ng-mongo-7.4.6.jar",
-          "size": 54207,
-          "sha512": "2fc35f6b219c85ad1cc78bed35b2342c78ce47d7950445c6bc518823a6745e8c9535af33e287ab38aa5d08a798422a470fbc82dcde2c11906e3f34b7cd85b78a",
-          "sha256": "4602bbe11635b3aa20d4480226c09aedf7cb611b84226e205a9360acbcbbbc9e",
-          "sha1": "f1626d384cc279ebe5f969034299584c12e6003c",
-          "md5": "b723652495d5b190418304b031595d2a"
+          "size": 54208,
+          "sha512": "64427a1ea19323c9aeb264ad198ae1dc4a6abf520508988174e89502eb5dc8e8d70092fcefd598abaf9ba7ad7ae519abde3128d7fa91d06db46e02590a56fbda",
+          "sha256": "dcaf51dbf291347f04c1fd902fd57e86089028805baeabb5b8489c5f5343bd56",
+          "sha1": "b376b2768c4d985be1f11bf05064fa99c12834d3",
+          "md5": "9485f60a7ef0b121d0f74cad065c5242"
         }
       ]
     },
@@ -81,11 +81,11 @@
         {
           "name": "core-ng-mongo-7.4.6.jar",
           "url": "core-ng-mongo-7.4.6.jar",
-          "size": 54207,
-          "sha512": "2fc35f6b219c85ad1cc78bed35b2342c78ce47d7950445c6bc518823a6745e8c9535af33e287ab38aa5d08a798422a470fbc82dcde2c11906e3f34b7cd85b78a",
-          "sha256": "4602bbe11635b3aa20d4480226c09aedf7cb611b84226e205a9360acbcbbbc9e",
-          "sha1": "f1626d384cc279ebe5f969034299584c12e6003c",
-          "md5": "b723652495d5b190418304b031595d2a"
+          "size": 54208,
+          "sha512": "64427a1ea19323c9aeb264ad198ae1dc4a6abf520508988174e89502eb5dc8e8d70092fcefd598abaf9ba7ad7ae519abde3128d7fa91d06db46e02590a56fbda",
+          "sha256": "dcaf51dbf291347f04c1fd902fd57e86089028805baeabb5b8489c5f5343bd56",
+          "sha1": "b376b2768c4d985be1f11bf05064fa99c12834d3",
+          "md5": "9485f60a7ef0b121d0f74cad065c5242"
         }
       ]
     },
@@ -101,11 +101,11 @@
         {
           "name": "core-ng-mongo-7.4.6-sources.jar",
           "url": "core-ng-mongo-7.4.6-sources.jar",
-          "size": 25674,
-          "sha512": "3e098d91a29811e17fb324d4221f76bd25dd186bf63f74650a24e7babe635a2d961b5fbc1febc0d648d62de2ac34ce6510cb6c4bf880286f83fa526d0a8673fc",
-          "sha256": "f4ca6d0868c3fde0fa9b64fa2402d2f588c4ff28e6b6464b8ae5a72ac7e7c5b5",
-          "sha1": "b6ac6e7515ff03c4734954b463f2f77bd03f9230",
-          "md5": "c09d715424ada42b2302c08773a4d462"
+          "size": 25673,
+          "sha512": "bd3b84d5d69f86f94149d73c039b2a53f2d59dc20300d86632f40e986a2c37f79c02527e8296c17569a68a67da14e574fa002f9c075ba17783a1368d34510da7",
+          "sha256": "5438ddc6e71c53e7d2596e43b7b63ca9a2fb478f999767002c4ef9fedb0e56f7",
+          "sha1": "a6c91be50ac7a75298c29aebe351ea10fa5b217c",
+          "md5": "a5d38482a60ec54c1dfce501a5a600d9"
         }
       ]
     }

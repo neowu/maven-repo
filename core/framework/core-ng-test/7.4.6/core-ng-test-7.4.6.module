@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.4.1",
-      "buildId": "bqukoiyrmvevlkfibgqynfucsm"
+      "buildId": "tiw26whr7vh43djrdosu3oi4rq"
     }
   },
   "variants": [
@@ -59,10 +59,10 @@
           "name": "core-ng-test-7.4.6.jar",
           "url": "core-ng-test-7.4.6.jar",
           "size": 35967,
-          "sha512": "3153ef418698408de332e7a678aa9e7d2b2b74e3cb647fc44b911ebe0c2a63ff46d89be14b32817b040f4c026333ee3e02f03144bf99890f2f2dcba9c4c211b1",
-          "sha256": "92449e492fdc1d3b97545ae63fd2b5a095cf0e9276d4364ee2e7cf29b588b944",
-          "sha1": "fccd9d40320af7470922152ef6942952ee2d6858",
-          "md5": "ce8f952aa6c6180b85609377fe7bcc72"
+          "sha512": "259d41d42519b73a80241bfeba78d857c1f767e314b00d7a51f387ef754b044d9713a8390b6feff2e5eb790180d4e2f0bcc1cf9472a2b3a1eed4834c26a31743",
+          "sha256": "634dac1c259c9be4eff40be9012c250c3c883abf121ed93d8844bedfeb0f5f3a",
+          "sha1": "11bea25b696e84c4d0fecae608a48fa6a7913b4a",
+          "md5": "263fc3806846c1c13c517a015ddbf5bc"
         }
       ]
     },
@@ -137,10 +137,10 @@
           "name": "core-ng-test-7.4.6.jar",
           "url": "core-ng-test-7.4.6.jar",
           "size": 35967,
-          "sha512": "3153ef418698408de332e7a678aa9e7d2b2b74e3cb647fc44b911ebe0c2a63ff46d89be14b32817b040f4c026333ee3e02f03144bf99890f2f2dcba9c4c211b1",
-          "sha256": "92449e492fdc1d3b97545ae63fd2b5a095cf0e9276d4364ee2e7cf29b588b944",
-          "sha1": "fccd9d40320af7470922152ef6942952ee2d6858",
-          "md5": "ce8f952aa6c6180b85609377fe7bcc72"
+          "sha512": "259d41d42519b73a80241bfeba78d857c1f767e314b00d7a51f387ef754b044d9713a8390b6feff2e5eb790180d4e2f0bcc1cf9472a2b3a1eed4834c26a31743",
+          "sha256": "634dac1c259c9be4eff40be9012c250c3c883abf121ed93d8844bedfeb0f5f3a",
+          "sha1": "11bea25b696e84c4d0fecae608a48fa6a7913b4a",
+          "md5": "263fc3806846c1c13c517a015ddbf5bc"
         }
       ]
     },
@@ -156,11 +156,11 @@
         {
           "name": "core-ng-test-7.4.6-sources.jar",
           "url": "core-ng-test-7.4.6-sources.jar",
-          "size": 18215,
-          "sha512": "da2f9656a7825442e4a6f3300a2595137982161d6bd31d343162322dfffde5e5889bce4771efae178a53cc33942826e78559b0509e978e4a422692eafabce6f2",
-          "sha256": "987473bd6625b870bb8d30c6624142900bbc9a4551fc26b05e93e2dcd9688314",
-          "sha1": "65fe25049f1ea44b644eada2ab48e8b560c6494a",
-          "md5": "18a89907d431ac937bacc273ff19c00d"
+          "size": 18214,
+          "sha512": "0f476172510b49b420179dffb6b3438c29dac8caf457c7d4a07dbc0282532c5c7fdf0daa122ece960993e00fb2b38c7d03537bc946ed9f1b1c0cdaf1129f16cb",
+          "sha256": "9778bb4f0b6ce56a75ec4b171999b1f7defe57fb6af47bbeb34c2ef9679a8d95",
+          "sha1": "354086126cf24fec0baf89f4e2b98c7826b4d895",
+          "md5": "fd76f91564075967b422c58baf759154"
         }
       ]
     }
