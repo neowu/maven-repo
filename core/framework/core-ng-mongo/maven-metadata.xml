@@ -3,8 +3,8 @@
   <groupId>core.framework</groupId>
   <artifactId>core-ng-mongo</artifactId>
   <versioning>
-    <latest>7.4.14</latest>
-    <release>7.4.14</release>
+    <latest>7.5.0</latest>
+    <release>7.5.0</release>
     <versions>
       <version>6.3.0</version>
       <version>6.3.1</version>
@@ -138,7 +138,8 @@
       <version>7.4.12</version>
       <version>7.4.13</version>
       <version>7.4.14</version>
+      <version>7.5.0</version>
     </versions>
-    <lastUpdated>20200723194708</lastUpdated>
+    <lastUpdated>20200729213526</lastUpdated>
   </versioning>
 </metadata>
