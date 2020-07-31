@@ -3,8 +3,8 @@
   <groupId>core.framework</groupId>
   <artifactId>core-ng</artifactId>
   <versioning>
-    <latest>7.5.0</latest>
-    <release>7.5.0</release>
+    <latest>7.5.1</latest>
+    <release>7.5.1</release>
     <versions>
       <version>4.7.8</version>
       <version>4.7.9</version>
@@ -222,7 +222,8 @@
       <version>7.4.13</version>
       <version>7.4.14</version>
       <version>7.5.0</version>
+      <version>7.5.1</version>
     </versions>
-    <lastUpdated>20200729213526</lastUpdated>
+    <lastUpdated>20200731170351</lastUpdated>
   </versioning>
 </metadata>
