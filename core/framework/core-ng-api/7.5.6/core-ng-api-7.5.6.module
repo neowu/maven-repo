@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6",
-      "buildId": "uvsmukcbuffqlned52vqbxkbzu"
+      "buildId": "jdhsmwlbjvg6foywe56zxxdxk4"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "core-ng-api-7.5.6.jar",
           "url": "core-ng-api-7.5.6.jar",
           "size": 10422,
-          "sha512": "8d00ce61136921b296ff90543e0b37940582d568cf9046b2687d7f5b860302c6164006ce651bfeff3cd4ea08ca9e8ed48b292d49c7901ac58b1f19984b73cba7",
-          "sha256": "dba3d6c040c11d8e93b7d18eeb1c04763c053a056871b7bfefb432014f06eafe",
-          "sha1": "eae9493fe56a90017f1e2abc4ed2ad38a98905fd",
-          "md5": "6bd1a7e9f85e852d161343f2dbc72387"
+          "sha512": "25997591b2adb6fede8b287e26aeb55856744773e83945ef83770f553f25b6e15f9815baefcd497c3eaa1b24d1e26894f1045b1b895551be4da52125cd4ab71e",
+          "sha256": "f4e44d90b5d6c43bb0d38c31c46b9e18c4a9b085f6ccd4fd01baceab2669d476",
+          "sha1": "56f2b97249ad11b8a597499597c40183ddd53e31",
+          "md5": "7f2a31791b5688c0386646194fa15223"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "core-ng-api-7.5.6.jar",
           "url": "core-ng-api-7.5.6.jar",
           "size": 10422,
-          "sha512": "8d00ce61136921b296ff90543e0b37940582d568cf9046b2687d7f5b860302c6164006ce651bfeff3cd4ea08ca9e8ed48b292d49c7901ac58b1f19984b73cba7",
-          "sha256": "dba3d6c040c11d8e93b7d18eeb1c04763c053a056871b7bfefb432014f06eafe",
-          "sha1": "eae9493fe56a90017f1e2abc4ed2ad38a98905fd",
-          "md5": "6bd1a7e9f85e852d161343f2dbc72387"
+          "sha512": "25997591b2adb6fede8b287e26aeb55856744773e83945ef83770f553f25b6e15f9815baefcd497c3eaa1b24d1e26894f1045b1b895551be4da52125cd4ab71e",
+          "sha256": "f4e44d90b5d6c43bb0d38c31c46b9e18c4a9b085f6ccd4fd01baceab2669d476",
+          "sha1": "56f2b97249ad11b8a597499597c40183ddd53e31",
+          "md5": "7f2a31791b5688c0386646194fa15223"
         }
       ]
     },
@@ -70,10 +70,10 @@
           "name": "core-ng-api-7.5.6-sources.jar",
           "url": "core-ng-api-7.5.6-sources.jar",
           "size": 8154,
-          "sha512": "0c0465061a9ea2b2e619cd35e2fdd28389764d445ec628e3bf0bdfe31070fc96ca7cf79c8d10028bfeeca8507780bebc05118235aae2340f28756666deccde43",
-          "sha256": "0b2ed9d02b80474deae7ad6576f5120a0546f7c0b375f0e09bfac66c75f192a7",
-          "sha1": "103320e57975dbfce42c7db109091236bf771434",
-          "md5": "b3d6f6fb520300f37d0327f0f0433059"
+          "sha512": "a35077142ec1956e6c391bf6d0cfe68b883dc0a1c1109d6df2f2c7ff00f79468a7288ffd1d7db3c67bc30fdc2c332b8d4b930c5aac8cb902b6d68300d7154cdf",
+          "sha256": "b7931871b225875a8d31fa03bd8785a84a7c17508451c9047d74021bad8b3419",
+          "sha1": "c8f01c29b6b05036ca0688576436197632dbfc78",
+          "md5": "4c9ffe9eafdda53dae301a61cddab3ea"
         }
       ]
     }
