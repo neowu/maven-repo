@@ -1,0 +1,120 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-mongo-test",
+    "version": "7.5.11",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.6",
+      "buildId": "sefro2iuazgoxnjl56voapinay"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng-test",
+          "version": {
+            "requires": "7.5.11"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng-mongo",
+          "version": {
+            "requires": "7.5.11"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-mongo-test-7.5.11.jar",
+          "url": "core-ng-mongo-test-7.5.11.jar",
+          "size": 2383,
+          "sha512": "e68a088620aff4a94eaefc3ac9368528885296a3d7032dc5bf36270ff1f89e75a4b423d769181b8b9d43e5bed73a204a41d6017b1e195343bd89c749d1560fee",
+          "sha256": "7bd35ad5c65ffe892dc248c192091138144122b46984b1793483696f9fd51b82",
+          "sha1": "94439d7d7278102238f09aff987b0f93d9ff07f7",
+          "md5": "3ab5dc52cd189af2a99d1bb4000521fe"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "de.bwaldvogel",
+          "module": "mongo-java-server",
+          "version": {
+            "requires": "1.34.0"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng-test",
+          "version": {
+            "requires": "7.5.11"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng-mongo",
+          "version": {
+            "requires": "7.5.11"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-mongo-test-7.5.11.jar",
+          "url": "core-ng-mongo-test-7.5.11.jar",
+          "size": 2383,
+          "sha512": "e68a088620aff4a94eaefc3ac9368528885296a3d7032dc5bf36270ff1f89e75a4b423d769181b8b9d43e5bed73a204a41d6017b1e195343bd89c749d1560fee",
+          "sha256": "7bd35ad5c65ffe892dc248c192091138144122b46984b1793483696f9fd51b82",
+          "sha1": "94439d7d7278102238f09aff987b0f93d9ff07f7",
+          "md5": "3ab5dc52cd189af2a99d1bb4000521fe"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-mongo-test-7.5.11-sources.jar",
+          "url": "core-ng-mongo-test-7.5.11-sources.jar",
+          "size": 1721,
+          "sha512": "967eac71b19167f40e21b2aea75aeb2e721a58f6c39dafeddaf4c095faedb5631372c58c5de487fb64c30e5e18f9be5fb8cf4b09a25ae40485191a89a4242d3c",
+          "sha256": "afd1c63f348e1b464ddee20092ac746191d6612ee5bad731e3da6b1d136c8956",
+          "sha1": "6cc95eca67e957bf547711d5d097ea0d6a907182",
+          "md5": "ab77f3c56b286ed42ffd5c35edae9638"
+        }
+      ]
+    }
+  ]
+}
