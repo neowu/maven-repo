@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7",
-      "buildId": "xd54h2egmrab5k7pkkb7oigyyq"
+      "buildId": "5jfivrnadrg73pcyjgmirgtp24"
     }
   },
   "variants": [
@@ -36,7 +36,7 @@
           "group": "org.elasticsearch.client",
           "module": "elasticsearch-rest-high-level-client",
           "version": {
-            "requires": "7.9.3"
+            "requires": "7.10.0"
           }
         }
       ],
@@ -45,10 +45,10 @@
           "name": "core-ng-search-7.6.2-b0.jar",
           "url": "core-ng-search-7.6.2-b0.jar",
           "size": 38501,
-          "sha512": "930b79ced1be06141890025e2819a69912bf70a2b854db36c3675ed1c8fc04170fa0515fa3178e416b418b4d7526de62c0fd5dcabf1b97450eb9ebf63be99ac2",
-          "sha256": "0e74062228e8d7689826dd1e33a37fbb7618a512c57c43a9e2ec9147f55a8532",
-          "sha1": "b7151158d1239cb0c1d4ad3b52bd5511e67319bf",
-          "md5": "80518f8d05c73d611415869f306ef93f"
+          "sha512": "30d6f995a00ffde4b717179e730358aff0252f4c435b4bedae7a72a213d674e7ca47cc3dc218c64391c7b56f57ddfbb13c198fc8f9c56b14c56aba6fbd029440",
+          "sha256": "ec929a5cdb5f01ffc40489515b53fde30274228fb67d5aeec0c5585a68434266",
+          "sha1": "a40c858fcd424c15a2e1cb64135130d4a7a56dc4",
+          "md5": "6ae4e42b0c8dbc493fae9f4229504a92"
         }
       ]
     },
@@ -73,7 +73,7 @@
           "group": "org.elasticsearch.client",
           "module": "elasticsearch-rest-high-level-client",
           "version": {
-            "requires": "7.9.3"
+            "requires": "7.10.0"
           }
         }
       ],
@@ -82,10 +82,10 @@
           "name": "core-ng-search-7.6.2-b0.jar",
           "url": "core-ng-search-7.6.2-b0.jar",
           "size": 38501,
-          "sha512": "930b79ced1be06141890025e2819a69912bf70a2b854db36c3675ed1c8fc04170fa0515fa3178e416b418b4d7526de62c0fd5dcabf1b97450eb9ebf63be99ac2",
-          "sha256": "0e74062228e8d7689826dd1e33a37fbb7618a512c57c43a9e2ec9147f55a8532",
-          "sha1": "b7151158d1239cb0c1d4ad3b52bd5511e67319bf",
-          "md5": "80518f8d05c73d611415869f306ef93f"
+          "sha512": "30d6f995a00ffde4b717179e730358aff0252f4c435b4bedae7a72a213d674e7ca47cc3dc218c64391c7b56f57ddfbb13c198fc8f9c56b14c56aba6fbd029440",
+          "sha256": "ec929a5cdb5f01ffc40489515b53fde30274228fb67d5aeec0c5585a68434266",
+          "sha1": "a40c858fcd424c15a2e1cb64135130d4a7a56dc4",
+          "md5": "6ae4e42b0c8dbc493fae9f4229504a92"
         }
       ]
     },
@@ -102,10 +102,10 @@
           "name": "core-ng-search-7.6.2-b0-sources.jar",
           "url": "core-ng-search-7.6.2-b0-sources.jar",
           "size": 17320,
-          "sha512": "24ad296b901eda259ac7361f743e0ef7dd4b1f9d15543133d9ca8ea804ccf73c1076d355377338a6a85513451fc942bbf18e58f28bed7faa614c01cb5bc11e56",
-          "sha256": "1e81eddef63dd3afa927a0f72ff384620f4076361db3cf21526e670c137c2849",
-          "sha1": "62db94ec2408578fb6f791f3673f07c772fc5454",
-          "md5": "e8901f2d2706941ab3c09204ae822f23"
+          "sha512": "5b5e19c8c417d7ae47116895d6ee11d3a694d7892b6393c8ca92ea8dd3584447cf3f9a322ebc9ec17c5dd57e9d297f35186ef99d61f92d7ff385dacba1f457c4",
+          "sha256": "daa2d5f6b2eaefbd8d0a278c6be00ec83bde0e00660f8f746651d50722685141",
+          "sha1": "e15322e50fe08ff54794307d930467eacd44ff69",
+          "md5": "16044e7cacc4fbd032766be185fb7a17"
         }
       ]
     }

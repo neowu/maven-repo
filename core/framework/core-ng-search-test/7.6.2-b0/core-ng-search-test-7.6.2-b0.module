@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7",
-      "buildId": "xd54h2egmrab5k7pkkb7oigyyq"
+      "buildId": "5jfivrnadrg73pcyjgmirgtp24"
     }
   },
   "variants": [
@@ -44,11 +44,11 @@
         {
           "name": "core-ng-search-test-7.6.2-b0.jar",
           "url": "core-ng-search-test-7.6.2-b0.jar",
-          "size": 9046,
-          "sha512": "fd620bbb85ad0ef76d167f0b41384da86dc30d8f0fdfeda01d6ba81cd41e9fc4f290baf124b5e507defc123b7a93102f677a481c1eca6e6506a90ec41caffd0a",
-          "sha256": "112cd02d23d03207c44a30dcbfad34373252651271199d9591bca5754bb39482",
-          "sha1": "44a09854fe9fb4c5c1ff148ea666a238e8067cc1",
-          "md5": "c1a62ef25d505307115ff629bf3ad5c0"
+          "size": 9066,
+          "sha512": "dcf955d9009a565e44f4dc06478648b61c155945dc037c6f2281b3eff936e27b3a76b7cec129cf80b3382c1428168dcd50c1421019c9fd0be6b69c5619214642",
+          "sha256": "eaf29bda8998e3f20eae3705a61805459b40e98dad57039edf0f2eb878f8e002",
+          "sha1": "d466793bbc115d3fdf91834bc5eed3e8ed001a7e",
+          "md5": "89a2c79a4e101e3c44f61d2057a5a7af"
         }
       ]
     },
@@ -66,35 +66,35 @@
           "group": "org.elasticsearch.plugin",
           "module": "transport-netty4-client",
           "version": {
-            "requires": "7.9.3"
+            "requires": "7.10.0"
           }
         },
         {
           "group": "org.elasticsearch.plugin",
           "module": "reindex-client",
           "version": {
-            "requires": "7.9.3"
+            "requires": "7.10.0"
           }
         },
         {
           "group": "org.codelibs.elasticsearch.module",
           "module": "lang-painless",
           "version": {
-            "requires": "7.9.3"
+            "requires": "7.10.0"
           }
         },
         {
           "group": "org.codelibs.elasticsearch.module",
           "module": "mapper-extras",
           "version": {
-            "requires": "7.9.3"
+            "requires": "7.10.0"
           }
         },
         {
           "group": "org.codelibs.elasticsearch.module",
           "module": "analysis-common",
           "version": {
-            "requires": "7.9.3"
+            "requires": "7.10.0"
           }
         },
         {
@@ -123,11 +123,11 @@
         {
           "name": "core-ng-search-test-7.6.2-b0.jar",
           "url": "core-ng-search-test-7.6.2-b0.jar",
-          "size": 9046,
-          "sha512": "fd620bbb85ad0ef76d167f0b41384da86dc30d8f0fdfeda01d6ba81cd41e9fc4f290baf124b5e507defc123b7a93102f677a481c1eca6e6506a90ec41caffd0a",
-          "sha256": "112cd02d23d03207c44a30dcbfad34373252651271199d9591bca5754bb39482",
-          "sha1": "44a09854fe9fb4c5c1ff148ea666a238e8067cc1",
-          "md5": "c1a62ef25d505307115ff629bf3ad5c0"
+          "size": 9066,
+          "sha512": "dcf955d9009a565e44f4dc06478648b61c155945dc037c6f2281b3eff936e27b3a76b7cec129cf80b3382c1428168dcd50c1421019c9fd0be6b69c5619214642",
+          "sha256": "eaf29bda8998e3f20eae3705a61805459b40e98dad57039edf0f2eb878f8e002",
+          "sha1": "d466793bbc115d3fdf91834bc5eed3e8ed001a7e",
+          "md5": "89a2c79a4e101e3c44f61d2057a5a7af"
         }
       ]
     },
@@ -143,11 +143,11 @@
         {
           "name": "core-ng-search-test-7.6.2-b0-sources.jar",
           "url": "core-ng-search-test-7.6.2-b0-sources.jar",
-          "size": 5425,
-          "sha512": "9ebc1ab0b1034ea968fa987df7e85c37a3444ebef801143205af8930e4699f0e87d638f7e7e37cf57e7627ab8acabef16e5196e23193fa50588986c590a8cc91",
-          "sha256": "4ba734a9ff72847c32f3e4fcf79c647c8aed7037dd35df61335162cfb1652de0",
-          "sha1": "8c578d63e40ef167515b6d856189ace281f73fb8",
-          "md5": "849a1fe3623a0f4e1dc1e860e295cf46"
+          "size": 5477,
+          "sha512": "c8b9638736ef4d4a34b31e57128db0fc2d78f08bc61422de9bc5618230ad70ee16de1656e5f6409af9b388dd41f6295f72bfab715f40328d0584b4ecfce61f16",
+          "sha256": "d1fadeca079a68d58eb602e1bdaf41e6dcda7fcd60208701713df049b751254b",
+          "sha1": "d2f21efc4a2267ef69149607b0dfc815fc0724f9",
+          "md5": "c56408b4859e382533f3adc2f56cf2fa"
         }
       ]
     }
