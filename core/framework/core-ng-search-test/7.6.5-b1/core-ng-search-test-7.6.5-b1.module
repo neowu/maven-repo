@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7",
-      "buildId": "xfkirao6brgntg7bbsmeiie7me"
+      "buildId": "ccyvjnb7orff5dpf6eczxv6e7a"
     }
   },
   "variants": [
@@ -45,10 +45,10 @@
           "name": "core-ng-search-test-7.6.5-b1.jar",
           "url": "core-ng-search-test-7.6.5-b1.jar",
           "size": 9068,
-          "sha512": "a58738d50f1e500523ef7176d9b6d1841712255aaafe5ffffa62489da98ad23834f6cc1657932889b3b4c888454492f9236aabbf64818d0209bb33d94565e866",
-          "sha256": "228920ba381a84755c479e32c9c708fb715bc312e06db9e8bf6982ca42cf97a5",
-          "sha1": "c37ff868a798b66d5f5207db89f8cdb51f55648e",
-          "md5": "93ca934e6ecbe28f14d4b9fcd4586c61"
+          "sha512": "b21fdb4ce65e3f31f3a2e1f47e76e800c1a548422173554e292a540c42a964818666668b3b15d2f6785cebfde4d6eccec52287ce422b1a0212ac69fb7c85589b",
+          "sha256": "263c729e5305593bf9b0ab913e6ed8fef3b74c992c76a2c0511cf663199e2330",
+          "sha1": "7f2125777a05588fb65fdd99c4d1714d52d75734",
+          "md5": "30444a3b37feca1fad22b25a89e24e8c"
         }
       ]
     },
@@ -131,10 +131,10 @@
           "name": "core-ng-search-test-7.6.5-b1.jar",
           "url": "core-ng-search-test-7.6.5-b1.jar",
           "size": 9068,
-          "sha512": "a58738d50f1e500523ef7176d9b6d1841712255aaafe5ffffa62489da98ad23834f6cc1657932889b3b4c888454492f9236aabbf64818d0209bb33d94565e866",
-          "sha256": "228920ba381a84755c479e32c9c708fb715bc312e06db9e8bf6982ca42cf97a5",
-          "sha1": "c37ff868a798b66d5f5207db89f8cdb51f55648e",
-          "md5": "93ca934e6ecbe28f14d4b9fcd4586c61"
+          "sha512": "b21fdb4ce65e3f31f3a2e1f47e76e800c1a548422173554e292a540c42a964818666668b3b15d2f6785cebfde4d6eccec52287ce422b1a0212ac69fb7c85589b",
+          "sha256": "263c729e5305593bf9b0ab913e6ed8fef3b74c992c76a2c0511cf663199e2330",
+          "sha1": "7f2125777a05588fb65fdd99c4d1714d52d75734",
+          "md5": "30444a3b37feca1fad22b25a89e24e8c"
         }
       ]
     },
@@ -151,10 +151,10 @@
           "name": "core-ng-search-test-7.6.5-b1-sources.jar",
           "url": "core-ng-search-test-7.6.5-b1-sources.jar",
           "size": 5479,
-          "sha512": "3d882841c68b022cc391172c2939cce55872cd79f723fc907a78a1ccd73f5fda12959bd5cd2b3628db4eee59ce1af533d9a6912855b13d4ea42e566ac1ebe2f4",
-          "sha256": "19ddd4746c2d909a6b56f17679157c0867a690379c2e4e4d91cc46b8dd570e8c",
-          "sha1": "258dd72154a466cb26e61713d662a1232091cb59",
-          "md5": "f9c3222509e94232f4d2159ee59ef85c"
+          "sha512": "bb93a5a48132b664fd6e2ae53f9eb9228b260525436453d939a5e5133b49769d34c314869d4bbebb19c9a2e62d02af98897e3169ad226ae084f787cf376fc26a",
+          "sha256": "b521eab42b4e4233d45d2c7b859d2d04208d83575f88c13fa8f7430fcbe01267",
+          "sha1": "549fa28e90168fc80eea2dfa83c91f302aa4c3a2",
+          "md5": "5fe577341380799b3fbd78b881c83932"
         }
       ]
     }

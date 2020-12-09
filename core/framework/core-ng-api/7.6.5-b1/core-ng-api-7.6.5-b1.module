@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7",
-      "buildId": "xfkirao6brgntg7bbsmeiie7me"
+      "buildId": "ccyvjnb7orff5dpf6eczxv6e7a"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "core-ng-api-7.6.5-b1.jar",
           "url": "core-ng-api-7.6.5-b1.jar",
           "size": 10433,
-          "sha512": "c9b987ca315b325e1188ad351e4485e8a5da1a881bce45480d61b0643ff35d6e11d34801e5504ef2f122d445309079ffc64df65e8f2609fb09b57bb3de6fcbbc",
-          "sha256": "3b4715d0d2b9114f0cfa7600cb9e765f1b71f8fc82ef935e4c4c3e814541c985",
-          "sha1": "d6373c2d7b1c72af93b9dfb3666e7af1fabaee6e",
-          "md5": "91fe10f1ff95d9b095b2a64ed3b8d46a"
+          "sha512": "d3525641b51793224a84bfaf0c025c2f7d0d3ab49d92ac488008854bedd03ab851e9501b61d0510e96d527830a7ed55aa1ef15adc9719962b461090785201cfe",
+          "sha256": "dcdf938d8b4fd79f9e67a437bd2d530fd288fa8c9106b4b5ec1c6ca1b1a307a5",
+          "sha1": "190b7b5399278eae484c3582ba99bf4563a38a19",
+          "md5": "779777115de184dd8717f3e7e43ced1a"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "core-ng-api-7.6.5-b1.jar",
           "url": "core-ng-api-7.6.5-b1.jar",
           "size": 10433,
-          "sha512": "c9b987ca315b325e1188ad351e4485e8a5da1a881bce45480d61b0643ff35d6e11d34801e5504ef2f122d445309079ffc64df65e8f2609fb09b57bb3de6fcbbc",
-          "sha256": "3b4715d0d2b9114f0cfa7600cb9e765f1b71f8fc82ef935e4c4c3e814541c985",
-          "sha1": "d6373c2d7b1c72af93b9dfb3666e7af1fabaee6e",
-          "md5": "91fe10f1ff95d9b095b2a64ed3b8d46a"
+          "sha512": "d3525641b51793224a84bfaf0c025c2f7d0d3ab49d92ac488008854bedd03ab851e9501b61d0510e96d527830a7ed55aa1ef15adc9719962b461090785201cfe",
+          "sha256": "dcdf938d8b4fd79f9e67a437bd2d530fd288fa8c9106b4b5ec1c6ca1b1a307a5",
+          "sha1": "190b7b5399278eae484c3582ba99bf4563a38a19",
+          "md5": "779777115de184dd8717f3e7e43ced1a"
         }
       ]
     },
@@ -70,10 +70,10 @@
           "name": "core-ng-api-7.6.5-b1-sources.jar",
           "url": "core-ng-api-7.6.5-b1-sources.jar",
           "size": 8156,
-          "sha512": "fe7c334dcf7d766103d08093e1a495152b0d17df669870cab6060cb9d49ba034b1cf0ec75ebdacfb0a02bb256f4b4612308eecc761908872b8e316fdc9643f25",
-          "sha256": "cf2066da396521c84320f19e87d88f09e0e4d7faba3ed5a9d0567c66af704c5a",
-          "sha1": "7938e2b1060969c0d98031f929d1a67afa0fd2ef",
-          "md5": "a840ff3c3aab7322f6536a5e1884a3a4"
+          "sha512": "4ce6d96d02d82da02dec42b3ee752d80b3705b07da35145cb5228dbb50f80e3d1e2d704538a65f2255dfe3b42b5ef682e5d783ff068d41d84c57d0bdf6b1e980",
+          "sha256": "3185be29b86556630e67725affb85ff76d52511f88a29898db2a2f41e04d175e",
+          "sha1": "5391ab6f283e685b300a1ad9cf397a7f37173cc6",
+          "md5": "8d9da01a3ec649e244f8b8a504b4ebb0"
         }
       ]
     }
