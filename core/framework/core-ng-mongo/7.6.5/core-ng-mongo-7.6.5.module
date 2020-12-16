@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-mongo",
+    "version": "7.6.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "ytlzdp7tvvashhab2spjndmoii"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "7.6.5"
+          }
+        },
+        {
+          "group": "org.mongodb",
+          "module": "mongodb-driver-sync",
+          "version": {
+            "requires": "4.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-mongo-7.6.5.jar",
+          "url": "core-ng-mongo-7.6.5.jar",
+          "size": 54021,
+          "sha512": "cef5694e9d82f0abb9e91a65e3bd3f8d8bf9223d8ab10b152006a48ba9303b20aa1dcbc5ce326a9ad1552494b8c1a48bc0a5d2a547535b938039b566b676e928",
+          "sha256": "3df550dfd3726bbcbcaafe18129ec1a661442f06770d758610fd3acd8fa29d0c",
+          "sha1": "dc5ae4339650553ce47a496a4442c78027d8cb8d",
+          "md5": "5278feb949b31c5ae8ac0a7d911dd681"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "7.6.5"
+          }
+        },
+        {
+          "group": "org.mongodb",
+          "module": "mongodb-driver-sync",
+          "version": {
+            "requires": "4.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-mongo-7.6.5.jar",
+          "url": "core-ng-mongo-7.6.5.jar",
+          "size": 54021,
+          "sha512": "cef5694e9d82f0abb9e91a65e3bd3f8d8bf9223d8ab10b152006a48ba9303b20aa1dcbc5ce326a9ad1552494b8c1a48bc0a5d2a547535b938039b566b676e928",
+          "sha256": "3df550dfd3726bbcbcaafe18129ec1a661442f06770d758610fd3acd8fa29d0c",
+          "sha1": "dc5ae4339650553ce47a496a4442c78027d8cb8d",
+          "md5": "5278feb949b31c5ae8ac0a7d911dd681"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-mongo-7.6.5-sources.jar",
+          "url": "core-ng-mongo-7.6.5-sources.jar",
+          "size": 25361,
+          "sha512": "fdd6de7dc1459f7088ed827111f532bb0e22ecf30f698c87e43cda9a177cc94972444821c00980f76a5803e6ed00b5cf7353549d173b81c679e428179be3b566",
+          "sha256": "ba09d570e371d2448422af6a0d6e13d5395414ce3f57e22d82400249e8cfdbd7",
+          "sha1": "2dda797b39b786621b939e4ee96f75cf9459a04f",
+          "md5": "b48c2bb83eb4cac0b98f692857e15802"
+        }
+      ]
+    }
+  ]
+}
