@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-mongo-test",
+    "version": "7.6.8-b1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "fqfj5gjcprevjolwmzhcja5rx4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "core-ng-mongo-test-7.6.8-b1.jar",
+          "url": "core-ng-mongo-test-7.6.8-b1.jar",
+          "size": 2384,
+          "sha512": "7f442c272e95ad28d198ee206acc8f6ffc7bbf768b29ee2365fefa11ca411077d3eede0b0a02db51b8f5886a4399d41184dfe1b626ebe6f0fe3667aac83b537d",
+          "sha256": "fba42045157b236e943294ca5a82df4e4ae0f18b7e73e9b66ae919f5f69c324a",
+          "sha1": "fef65f3f88d1738ca104a9d9053c59cec272b853",
+          "md5": "fd9fa44bb704a21de5154dc5de8878ad"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng-test",
+          "version": {
+            "requires": "7.6.8-b1"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng-mongo",
+          "version": {
+            "requires": "7.6.8-b1"
+          }
+        },
+        {
+          "group": "de.bwaldvogel",
+          "module": "mongo-java-server",
+          "version": {
+            "requires": "1.36.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-mongo-test-7.6.8-b1.jar",
+          "url": "core-ng-mongo-test-7.6.8-b1.jar",
+          "size": 2384,
+          "sha512": "7f442c272e95ad28d198ee206acc8f6ffc7bbf768b29ee2365fefa11ca411077d3eede0b0a02db51b8f5886a4399d41184dfe1b626ebe6f0fe3667aac83b537d",
+          "sha256": "fba42045157b236e943294ca5a82df4e4ae0f18b7e73e9b66ae919f5f69c324a",
+          "sha1": "fef65f3f88d1738ca104a9d9053c59cec272b853",
+          "md5": "fd9fa44bb704a21de5154dc5de8878ad"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-mongo-test-7.6.8-b1-sources.jar",
+          "url": "core-ng-mongo-test-7.6.8-b1-sources.jar",
+          "size": 1722,
+          "sha512": "eac8159d181f0281288afff1921d9ec486a84aafe6eb78347351db86b62b5a4c054795784b874ff98bcf7e4ff119610e50fc6b5f952046080f5eda1d0cc81602",
+          "sha256": "fef73b8a8b2968e45ce353861ad5dd01a97fbed3228d864c5242c84994a2f193",
+          "sha1": "b667d1e7ab734046a4f9c23c72bc9f2aa80c1949",
+          "md5": "5168f4919e252293522589223e3dacd0"
+        }
+      ]
+    }
+  ]
+}
