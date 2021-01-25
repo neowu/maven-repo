@@ -1,0 +1,175 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng",
+    "version": "7.6.10",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "7nkvhrqrv5gstgwwdasfbffsaa"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng-api",
+          "version": {
+            "requires": "7.6.10"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.8.0-beta4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-7.6.10.jar",
+          "url": "core-ng-7.6.10.jar",
+          "size": 681885,
+          "sha512": "2652b21f184b29f7af8b8a157567b345470a98675fa55915ed2e1ff7e836fb7ad643ac74be70b34a600be8415529932e5ba9b93498dd4d2b19a3b97974372d92",
+          "sha256": "ce2bf0d21212b4b74ab910ca0910161f7b18af3224e1cce44a0928ca98a77acd",
+          "sha1": "7994987719d4d766c99ce1e7d187b110d583d361",
+          "md5": "3d09050f8fe3ad4c38e2a6e97f4de22b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.javassist",
+          "module": "javassist",
+          "version": {
+            "requires": "3.27.0-GA"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.module",
+          "module": "jackson-module-afterburner",
+          "version": {
+            "requires": "2.12.0"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.datatype",
+          "module": "jackson-datatype-jsr310",
+          "version": {
+            "requires": "2.12.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.0"
+          }
+        },
+        {
+          "group": "io.undertow",
+          "module": "undertow-core",
+          "version": {
+            "requires": "2.2.3.Final"
+          }
+        },
+        {
+          "group": "org.apache.kafka",
+          "module": "kafka-clients",
+          "version": {
+            "requires": "2.7.0"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ],
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "kafka-clients",
+              "type": "jar",
+              "extension": "jar"
+            }
+          }
+        },
+        {
+          "group": "org.xerial.snappy",
+          "module": "snappy-java",
+          "version": {
+            "requires": "1.1.8.2"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng-api",
+          "version": {
+            "requires": "7.6.10"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.8.0-beta4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-7.6.10.jar",
+          "url": "core-ng-7.6.10.jar",
+          "size": 681885,
+          "sha512": "2652b21f184b29f7af8b8a157567b345470a98675fa55915ed2e1ff7e836fb7ad643ac74be70b34a600be8415529932e5ba9b93498dd4d2b19a3b97974372d92",
+          "sha256": "ce2bf0d21212b4b74ab910ca0910161f7b18af3224e1cce44a0928ca98a77acd",
+          "sha1": "7994987719d4d766c99ce1e7d187b110d583d361",
+          "md5": "3d09050f8fe3ad4c38e2a6e97f4de22b"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-7.6.10-sources.jar",
+          "url": "core-ng-7.6.10-sources.jar",
+          "size": 350126,
+          "sha512": "4f29e3a4c3d3119c5601df65430c94122e5912b0f940fcb9bc9306f7dd7fbe6f8d9ac09d3fb62396d802fe816fcc04f75c2ed6062e81e250ffe50a8cba2cb02a",
+          "sha256": "37a77f5b64b8b57e32f68d952772579295b44709a6561e7c901c99b0e5f4474a",
+          "sha1": "03aee160dd36796f6fb670c0f1b769f591d974f4",
+          "md5": "b69fb60d83268a2b117aa9352ec9717c"
+        }
+      ]
+    }
+  ]
+}
