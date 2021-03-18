@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.2",
-      "buildId": "y4jpvy47ejel5oivsnxw6bxvra"
+      "buildId": "5ouw753gz5cgbnubxggdyz4bvu"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "core-ng-api-7.6.12.jar",
           "url": "core-ng-api-7.6.12.jar",
           "size": 10963,
-          "sha512": "ffc25a16cab3e7eff1ebd2a977a5737a847f31acb9d6c0580105cff9c38a879827837a1b430e998e660a41d6bd4674fe552aafdbb9a2c3afaf9879fb2a6d8417",
-          "sha256": "c63d9118a567770a17fa111f6441dde893bc9aa600d119e089024509156ff5e2",
-          "sha1": "7b903a882043e7e3882f6a7dc5add6dfceaf7ab2",
-          "md5": "af8993d7a671428eec4caff7194c0b2f"
+          "sha512": "b567bcff5f5c3875b40e837ac55e0f3edb2742d96a03150c20acf58adabdf33ad1ea6082e82e63b81f91c7e72098a7c9ae68be3f7ff1028cb108869377548d68",
+          "sha256": "a50ec1b3fdd249d0c153a841a0ed295974bf51db54c933388aea470b550ac1cb",
+          "sha1": "b1fe8f652fef42321fdafca83a4b9a475f029882",
+          "md5": "c21ef35a79eb8b31f69464a4ee5b875f"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "core-ng-api-7.6.12.jar",
           "url": "core-ng-api-7.6.12.jar",
           "size": 10963,
-          "sha512": "ffc25a16cab3e7eff1ebd2a977a5737a847f31acb9d6c0580105cff9c38a879827837a1b430e998e660a41d6bd4674fe552aafdbb9a2c3afaf9879fb2a6d8417",
-          "sha256": "c63d9118a567770a17fa111f6441dde893bc9aa600d119e089024509156ff5e2",
-          "sha1": "7b903a882043e7e3882f6a7dc5add6dfceaf7ab2",
-          "md5": "af8993d7a671428eec4caff7194c0b2f"
+          "sha512": "b567bcff5f5c3875b40e837ac55e0f3edb2742d96a03150c20acf58adabdf33ad1ea6082e82e63b81f91c7e72098a7c9ae68be3f7ff1028cb108869377548d68",
+          "sha256": "a50ec1b3fdd249d0c153a841a0ed295974bf51db54c933388aea470b550ac1cb",
+          "sha1": "b1fe8f652fef42321fdafca83a4b9a475f029882",
+          "md5": "c21ef35a79eb8b31f69464a4ee5b875f"
         }
       ]
     },
@@ -70,10 +70,10 @@
           "name": "core-ng-api-7.6.12-sources.jar",
           "url": "core-ng-api-7.6.12-sources.jar",
           "size": 8644,
-          "sha512": "a979b793b2a3c92d27605f0d11b94bc265401919355f83abd469edc2389c4c392b2fff0495537ee7c3c1cf447596a0282bb94195cc28b4ddc68b113f01fbb6b2",
-          "sha256": "86c8c6915048db6bd2f4413f0d23c9a0ee3f5956665e3a7db2227c4e6a744f08",
-          "sha1": "0392d65c95ee6e5db5088d83667388fcc99b654d",
-          "md5": "4d5af58efae206ee34b261b420178501"
+          "sha512": "d639838b17da77ddff837cbde2ffe4904212202a53b93a9c8ec9f3bdfd1f21c38ae470267cfa6ed13a0e56ecd7e367aba38db3793fa179186a7351cda01043fb",
+          "sha256": "5d4679bca082c697b1922f965ba7aa19ee539beabe59adc874499da3efd931ee",
+          "sha1": "f63beae7fe050510607b1ee86fc55e3b9b788fb3",
+          "md5": "a1c6df87c511158446cad2fba8a9ffed"
         }
       ]
     }

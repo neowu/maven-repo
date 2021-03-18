@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.2",
-      "buildId": "y4jpvy47ejel5oivsnxw6bxvra"
+      "buildId": "5ouw753gz5cgbnubxggdyz4bvu"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "core-ng-search-test-7.6.12.jar",
           "url": "core-ng-search-test-7.6.12.jar",
           "size": 9067,
-          "sha512": "fad6a686d6a6c055a84a26f4e053c4e9ad7444e980ee8c28ae5f3f645ff47e0d7e4d58c6a453a3086109fd41560c8649e381d134788a90d2b152cbdef36f0f43",
-          "sha256": "37dc4d87985dd74b36d95d396cac2860f70f42f984ff3538da90a2a9f3657b6e",
-          "sha1": "5ed29330e8b373fdbc216c283d546e7374f01348",
-          "md5": "5449f26faf19ba6baaff28469ac3afb1"
+          "sha512": "f75a180fa501d3d143b13e74ef8c482a4844d11a55dfd6389a8ba1d402f7871f8c63c5cf6b70a3e6b9642db0c92146aac55e3d9984b69c450c41a08730bdfa10",
+          "sha256": "28c67b05609cffcc02745356f211826f885b3e370b3673d9503fb33729bc603a",
+          "sha1": "6331e67098ab49efa0d38b4ab6d82776be00244d",
+          "md5": "e415acbad8eded3776f92bd0eeda5f1b"
         }
       ]
     },
@@ -61,38 +61,45 @@
           }
         },
         {
+          "group": "org.elasticsearch",
+          "module": "elasticsearch",
+          "version": {
+            "requires": "7.11.2"
+          }
+        },
+        {
           "group": "org.elasticsearch.plugin",
           "module": "transport-netty4-client",
           "version": {
-            "requires": "7.10.2"
+            "requires": "7.11.2"
           }
         },
         {
           "group": "org.elasticsearch.plugin",
           "module": "reindex-client",
           "version": {
-            "requires": "7.10.2"
+            "requires": "7.11.2"
           }
         },
         {
-          "group": "org.codelibs.elasticsearch.module",
+          "group": "org.elasticsearch.plugin",
+          "module": "mapper-extras-client",
+          "version": {
+            "requires": "7.11.2"
+          }
+        },
+        {
+          "group": "core.framework.elasticsearch.module",
           "module": "lang-painless",
           "version": {
-            "requires": "7.10.2"
+            "requires": "7.11.2"
           }
         },
         {
-          "group": "org.codelibs.elasticsearch.module",
-          "module": "mapper-extras",
-          "version": {
-            "requires": "7.10.2"
-          }
-        },
-        {
-          "group": "org.codelibs.elasticsearch.module",
+          "group": "core.framework.elasticsearch.module",
           "module": "analysis-common",
           "version": {
-            "requires": "7.10.2"
+            "requires": "7.11.2"
           }
         },
         {
@@ -115,10 +122,10 @@
           "name": "core-ng-search-test-7.6.12.jar",
           "url": "core-ng-search-test-7.6.12.jar",
           "size": 9067,
-          "sha512": "fad6a686d6a6c055a84a26f4e053c4e9ad7444e980ee8c28ae5f3f645ff47e0d7e4d58c6a453a3086109fd41560c8649e381d134788a90d2b152cbdef36f0f43",
-          "sha256": "37dc4d87985dd74b36d95d396cac2860f70f42f984ff3538da90a2a9f3657b6e",
-          "sha1": "5ed29330e8b373fdbc216c283d546e7374f01348",
-          "md5": "5449f26faf19ba6baaff28469ac3afb1"
+          "sha512": "f75a180fa501d3d143b13e74ef8c482a4844d11a55dfd6389a8ba1d402f7871f8c63c5cf6b70a3e6b9642db0c92146aac55e3d9984b69c450c41a08730bdfa10",
+          "sha256": "28c67b05609cffcc02745356f211826f885b3e370b3673d9503fb33729bc603a",
+          "sha1": "6331e67098ab49efa0d38b4ab6d82776be00244d",
+          "md5": "e415acbad8eded3776f92bd0eeda5f1b"
         }
       ]
     },
@@ -135,10 +142,10 @@
           "name": "core-ng-search-test-7.6.12-sources.jar",
           "url": "core-ng-search-test-7.6.12-sources.jar",
           "size": 5478,
-          "sha512": "5b98a0f0602949746f642587df9becb7c8ca03cfab3ffc03665c1666870e640547f20081c87576e87c57dad43f43377e1c85bf7e23b5501b8646eac09ed7fde5",
-          "sha256": "25afc7b5ed4a391fcde679455b4fea87c6b286bc3a56c2658c2c1e2b8add12dc",
-          "sha1": "5cc8c70e2e9df9ba91168ef47141fe419b88a9ef",
-          "md5": "9088725e9f5bb12fb07f5cb658f92d0c"
+          "sha512": "5e8a8882a4e01013ea7a7bc2a809c78317ae78d8b903d825f25409772f3492946ebfa6a695ec2598d2e01d2afa719ffe9b35e08bcb01651bfe1fab29a5957120",
+          "sha256": "070c50d0b87b8aa8eea4955dd06f609b06e8dd17b786c4f52e302d37d4d1c3fc",
+          "sha1": "9557ad24690674c1e96d1cfd2eff3067c03ef1b2",
+          "md5": "bfd62f1b79ab5f243f6b03ef60c7be04"
         }
       ]
     }

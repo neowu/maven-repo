@@ -24,33 +24,39 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
+      <groupId>org.elasticsearch</groupId>
+      <artifactId>elasticsearch</artifactId>
+      <version>7.11.2</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
       <groupId>org.elasticsearch.plugin</groupId>
       <artifactId>transport-netty4-client</artifactId>
-      <version>7.10.2</version>
+      <version>7.11.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>org.elasticsearch.plugin</groupId>
       <artifactId>reindex-client</artifactId>
-      <version>7.10.2</version>
+      <version>7.11.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>org.codelibs.elasticsearch.module</groupId>
+      <groupId>org.elasticsearch.plugin</groupId>
+      <artifactId>mapper-extras-client</artifactId>
+      <version>7.11.2</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>core.framework.elasticsearch.module</groupId>
       <artifactId>lang-painless</artifactId>
-      <version>7.10.2</version>
+      <version>7.11.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>org.codelibs.elasticsearch.module</groupId>
-      <artifactId>mapper-extras</artifactId>
-      <version>7.10.2</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.codelibs.elasticsearch.module</groupId>
+      <groupId>core.framework.elasticsearch.module</groupId>
       <artifactId>analysis-common</artifactId>
-      <version>7.10.2</version>
+      <version>7.11.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
