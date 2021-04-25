@@ -1,0 +1,160 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-test",
+    "version": "7.6.15",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.junit.jupiter",
+          "module": "junit-jupiter-api",
+          "version": {
+            "requires": "5.7.1"
+          }
+        },
+        {
+          "group": "org.mockito",
+          "module": "mockito-junit-jupiter",
+          "version": {
+            "requires": "3.7.0"
+          }
+        },
+        {
+          "group": "org.assertj",
+          "module": "assertj-core",
+          "version": {
+            "requires": "3.19.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-test-7.6.15.jar",
+          "url": "core-ng-test-7.6.15.jar",
+          "size": 41603,
+          "sha512": "96ede19b69533a96ac3aec7416da6da0f378bd22898952324dff0de5c39485aa3cb396a0a99853d2a10d0fd1bd754297ea262a5c0544e75efa123711e2187406",
+          "sha256": "d93882cb1de66270572c837fcc021b611a29d3575a694f1382b04313990de295",
+          "sha1": "f499e2d8116f91ada5d1190259ad11ca801ec5e5",
+          "md5": "1e2a059a2e06b5787ee8e1ae8c6f1da0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "7.6.15"
+          }
+        },
+        {
+          "group": "org.junit.jupiter",
+          "module": "junit-jupiter-engine",
+          "version": {
+            "requires": "5.7.1"
+          }
+        },
+        {
+          "group": "org.apache.kafka",
+          "module": "kafka-clients",
+          "version": {
+            "requires": "2.8.0"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ],
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "kafka-clients",
+              "type": "jar",
+              "extension": "jar"
+            }
+          }
+        },
+        {
+          "group": "org.junit.jupiter",
+          "module": "junit-jupiter-api",
+          "version": {
+            "requires": "5.7.1"
+          }
+        },
+        {
+          "group": "org.mockito",
+          "module": "mockito-junit-jupiter",
+          "version": {
+            "requires": "3.7.0"
+          }
+        },
+        {
+          "group": "org.assertj",
+          "module": "assertj-core",
+          "version": {
+            "requires": "3.19.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-test-7.6.15.jar",
+          "url": "core-ng-test-7.6.15.jar",
+          "size": 41603,
+          "sha512": "96ede19b69533a96ac3aec7416da6da0f378bd22898952324dff0de5c39485aa3cb396a0a99853d2a10d0fd1bd754297ea262a5c0544e75efa123711e2187406",
+          "sha256": "d93882cb1de66270572c837fcc021b611a29d3575a694f1382b04313990de295",
+          "sha1": "f499e2d8116f91ada5d1190259ad11ca801ec5e5",
+          "md5": "1e2a059a2e06b5787ee8e1ae8c6f1da0"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-test-7.6.15-sources.jar",
+          "url": "core-ng-test-7.6.15-sources.jar",
+          "size": 20037,
+          "sha512": "8aad03ffc1a52dd6981fe1f6276e4a0b89de517a7db31c23c2368df3ed4e53a21ff5a2f68adfa41377b5c47f4e7e550a68a191d462cfcfc0977148275b4055ed",
+          "sha256": "f1840910aa3036383487199a7df9a605e106656a64751f36639ee2923ea695a1",
+          "sha1": "830f39f1dc49f285d747f5750349c160bd12d0c4",
+          "md5": "22bd325eb4369aa9ded0c41a4fc7f61c"
+        }
+      ]
+    }
+  ]
+}
