@@ -1,0 +1,152 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-search-test",
+    "version": "7.7.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "core-ng-search-test-7.7.2.jar",
+          "url": "core-ng-search-test-7.7.2.jar",
+          "size": 9066,
+          "sha512": "f5b7bb8f88f969e47b48f61fe2c82d30a9f084380e07c3cef8bc4f9bcf0d3ddb464ba360a096c0dfe8b2d9733e2ea53febd7c91487768f6ec07e0c9cd79b8422",
+          "sha256": "09fe644097ec4b3681d29fb477a3d40ae312c5e98176b713a92b229cda7a8e47",
+          "sha1": "70417a98e9479f3e27fd48fb40d54315adcf859f",
+          "md5": "56f158eed4badeb354eb36303d610857"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng-test",
+          "version": {
+            "requires": "7.7.2"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng-search",
+          "version": {
+            "requires": "7.7.2"
+          }
+        },
+        {
+          "group": "org.elasticsearch",
+          "module": "elasticsearch",
+          "version": {
+            "requires": "7.13.0"
+          }
+        },
+        {
+          "group": "org.elasticsearch.plugin",
+          "module": "transport-netty4-client",
+          "version": {
+            "requires": "7.13.0"
+          }
+        },
+        {
+          "group": "org.elasticsearch.plugin",
+          "module": "reindex-client",
+          "version": {
+            "requires": "7.13.0"
+          }
+        },
+        {
+          "group": "org.elasticsearch.plugin",
+          "module": "mapper-extras-client",
+          "version": {
+            "requires": "7.13.0"
+          }
+        },
+        {
+          "group": "core.framework.elasticsearch.module",
+          "module": "lang-painless",
+          "version": {
+            "requires": "7.13.0"
+          }
+        },
+        {
+          "group": "core.framework.elasticsearch.module",
+          "module": "analysis-common",
+          "version": {
+            "requires": "7.13.0"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-core",
+          "version": {
+            "requires": "2.11.1"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.12.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-search-test-7.7.2.jar",
+          "url": "core-ng-search-test-7.7.2.jar",
+          "size": 9066,
+          "sha512": "f5b7bb8f88f969e47b48f61fe2c82d30a9f084380e07c3cef8bc4f9bcf0d3ddb464ba360a096c0dfe8b2d9733e2ea53febd7c91487768f6ec07e0c9cd79b8422",
+          "sha256": "09fe644097ec4b3681d29fb477a3d40ae312c5e98176b713a92b229cda7a8e47",
+          "sha1": "70417a98e9479f3e27fd48fb40d54315adcf859f",
+          "md5": "56f158eed4badeb354eb36303d610857"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-search-test-7.7.2-sources.jar",
+          "url": "core-ng-search-test-7.7.2-sources.jar",
+          "size": 5477,
+          "sha512": "0d2f7417d4b11fca6f87b0cb3680048b7044b6219fdb32347ca492a7e12fb4e52859e2e3d28e3c3d85824aba54ac15e486b75e764ecc2c7ea998fd81e0de59bf",
+          "sha256": "aa4604f37453367b6f40bcc81bcf29c7416a27b31009e94321b5b148264fcb4e",
+          "sha1": "819475e429328a76fd43cb53ca76414114518894",
+          "md5": "0b448ea879315149117c454e9de669b1"
+        }
+      ]
+    }
+  ]
+}
