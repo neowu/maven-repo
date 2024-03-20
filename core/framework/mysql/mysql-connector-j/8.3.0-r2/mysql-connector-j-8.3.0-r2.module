@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework.mysql",
+    "module": "mysql-connector-j",
+    "version": "8.3.0-r2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "mysql-connector-j-8.3.0-r2.jar",
+          "url": "mysql-connector-j-8.3.0-r2.jar",
+          "size": 528912,
+          "sha512": "fe77860389b07c85a57bac7d1261f6951d2b81194ff427e8341bae889481e71a48a457773ac8ee32ea22e10a56b90cd3decd5e45e40fc4d3f9f51800faa42f34",
+          "sha256": "1ef9496284e5eae334282300048da22d87f8cc7281cc827624376526032ddad5",
+          "sha1": "1813c723082e4d1e6131da630ccded0a192223d2",
+          "md5": "939258cb2ea96be2eceb4f6016acff1b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mysql-connector-j-8.3.0-r2.jar",
+          "url": "mysql-connector-j-8.3.0-r2.jar",
+          "size": 528912,
+          "sha512": "fe77860389b07c85a57bac7d1261f6951d2b81194ff427e8341bae889481e71a48a457773ac8ee32ea22e10a56b90cd3decd5e45e40fc4d3f9f51800faa42f34",
+          "sha256": "1ef9496284e5eae334282300048da22d87f8cc7281cc827624376526032ddad5",
+          "sha1": "1813c723082e4d1e6131da630ccded0a192223d2",
+          "md5": "939258cb2ea96be2eceb4f6016acff1b"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mysql-connector-j-8.3.0-r2-sources.jar",
+          "url": "mysql-connector-j-8.3.0-r2-sources.jar",
+          "size": 532593,
+          "sha512": "c38caca41e30f732efa03befceba8dee9999cbd59bd2edc5da3ee6bb9b77a2c3368708a4fec705e9aeeee3cf0cef6f514ea1f0d38e85366531a0cd4fde633060",
+          "sha256": "d39e94ba3186b87b88b135ed4845d46eefda111c51f35c940002488063e8bb0a",
+          "sha1": "826364bbf6d89573bb7475ff37d5f83ab715eca0",
+          "md5": "643b884b7f75cd8352274852b5dc8af8"
+        }
+      ]
+    }
+  ]
+}
