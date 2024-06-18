@@ -9,5 +9,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>core.framework.mysql</groupId>
   <artifactId>mysql-connector-j</artifactId>
-  <version>8.4.0-r3</version>
+  <version>8.4.0-r4</version>
 </project>
