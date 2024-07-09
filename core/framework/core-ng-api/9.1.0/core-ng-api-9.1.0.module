@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-api",
+    "version": "9.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "core-ng-api-9.1.0.jar",
+          "url": "core-ng-api-9.1.0.jar",
+          "size": 10991,
+          "sha512": "4c8dd7617f44570e69bc850b0501c78cb88aed65b47d516e5c8cce5c58cb3d904c5d9ce175843010d5224ad5c250c95dea6f829a660d598b45cb37d5ad96dd6d",
+          "sha256": "8a6a2c235ff8ee808395c23ffa308fd17080bee45d3d378a3e32a21f4569bced",
+          "sha1": "3e0bd24b38da4b9928a0d00cb6a749be7d550242",
+          "md5": "a066fe13c3f01368238a69489ab356d3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-api-9.1.0.jar",
+          "url": "core-ng-api-9.1.0.jar",
+          "size": 10991,
+          "sha512": "4c8dd7617f44570e69bc850b0501c78cb88aed65b47d516e5c8cce5c58cb3d904c5d9ce175843010d5224ad5c250c95dea6f829a660d598b45cb37d5ad96dd6d",
+          "sha256": "8a6a2c235ff8ee808395c23ffa308fd17080bee45d3d378a3e32a21f4569bced",
+          "sha1": "3e0bd24b38da4b9928a0d00cb6a749be7d550242",
+          "md5": "a066fe13c3f01368238a69489ab356d3"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-api-9.1.0-sources.jar",
+          "url": "core-ng-api-9.1.0-sources.jar",
+          "size": 8641,
+          "sha512": "715dbd874937727276e10c19348b7a99c4e1c761b1aab6d4fd3d412b423bf03ae4dafd1214d48261c7550622c7f034f64a1c778764d0ca6ae56f1f19c4a57d22",
+          "sha256": "5db9ff5d0b9ac997fab49d89a70d0c2294a95109e9f5af6fe609d03cc14b9e30",
+          "sha1": "52ac94a1537526e19d981362f5ecb8cd09693d67",
+          "md5": "e0eece6a93ad62396fabc9e4ddb78cce"
+        }
+      ]
+    }
+  ]
+}
