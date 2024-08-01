@@ -44,10 +44,10 @@
           "name": "core-ng-search-9.1.1-b1.jar",
           "url": "core-ng-search-9.1.1-b1.jar",
           "size": 52826,
-          "sha512": "4ff649566d9348e3c1fcac0c0bd20acffff745f298092545b2f961220ca6d27dafdc243d34f8c388521642cc3209eda5ef850acc8fc829135017cdda9eb93743",
-          "sha256": "c78caf5bbbbe7ed27e2c59cc17b302099cb096816f157c9cb87ee85a5e0787ec",
-          "sha1": "c064f3cc80264b3ef8121ee42c53bdcc2af2d91e",
-          "md5": "73aee1d8fee6ef685b5b8b15fa1cb472"
+          "sha512": "ad84f129feab5bdd138174a13fe0ed84df943df2b1245319fbeb6445d43fde7125e70351b98bc324cb32c5dd546ba56fdb0ca5bfaf26bfa0b6101960f973e1b4",
+          "sha256": "1bb45cd4e048a9933ae3c926a7115824dde349721972d31b43c75a7165cfd4d0",
+          "sha1": "426e4d17523b11211342fd9c1752fe4938b78e1d",
+          "md5": "fabd9385973b654c8cfb1e2546fbbce6"
         }
       ]
     },
@@ -88,10 +88,10 @@
           "name": "core-ng-search-9.1.1-b1.jar",
           "url": "core-ng-search-9.1.1-b1.jar",
           "size": 52826,
-          "sha512": "4ff649566d9348e3c1fcac0c0bd20acffff745f298092545b2f961220ca6d27dafdc243d34f8c388521642cc3209eda5ef850acc8fc829135017cdda9eb93743",
-          "sha256": "c78caf5bbbbe7ed27e2c59cc17b302099cb096816f157c9cb87ee85a5e0787ec",
-          "sha1": "c064f3cc80264b3ef8121ee42c53bdcc2af2d91e",
-          "md5": "73aee1d8fee6ef685b5b8b15fa1cb472"
+          "sha512": "ad84f129feab5bdd138174a13fe0ed84df943df2b1245319fbeb6445d43fde7125e70351b98bc324cb32c5dd546ba56fdb0ca5bfaf26bfa0b6101960f973e1b4",
+          "sha256": "1bb45cd4e048a9933ae3c926a7115824dde349721972d31b43c75a7165cfd4d0",
+          "sha1": "426e4d17523b11211342fd9c1752fe4938b78e1d",
+          "md5": "fabd9385973b654c8cfb1e2546fbbce6"
         }
       ]
     },
@@ -108,10 +108,10 @@
           "name": "core-ng-search-9.1.1-b1-sources.jar",
           "url": "core-ng-search-9.1.1-b1-sources.jar",
           "size": 21981,
-          "sha512": "ab9c3ad9e7e12f8c0aefc5dd9f5cd4a5048c8f3510c913f561ccad8344ac869b380c518825fc0dc7efa44e2d56643d8332a423aa6c568a06949caeb6f675a171",
-          "sha256": "4c5591364bd7a21661153299f9ffa551ba5d4e42aaa208e8f662e6839ae3e5a5",
-          "sha1": "8fd3aa2c0e1b698fdf738d132b06e89cb319e9bc",
-          "md5": "1bbea6a4dc9263fc0dbee84ef2851b06"
+          "sha512": "d4800e0c9fbb4bea00e6e998d6665a335fe1722ec6e58a6ae741b3ee23574f860f1f206bcbe14441050971439c5ed3ddd22c928d5eb9e6f41102aa0d6378ea80",
+          "sha256": "eeb78abbd2b65661aaa7cda5c43fde2984f81b513030f5f174926cd3306d8c89",
+          "sha1": "38b8240bc54097c8206452ab09f4482af6aabc96",
+          "md5": "9e9c876234485041a6c7a7ccf00e9ab0"
         }
       ]
     }
