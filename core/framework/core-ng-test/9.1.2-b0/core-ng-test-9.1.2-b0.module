@@ -51,10 +51,10 @@
           "name": "core-ng-test-9.1.2-b0.jar",
           "url": "core-ng-test-9.1.2-b0.jar",
           "size": 45686,
-          "sha512": "3a23ad90ad1598e2d2defc2f6f14c1e4a57e51a7a3c726884ed155b7fb2133a8f8bc1932f8bc79be6e94e52c8b61cbaecd6aef0534982322d39ccbc4d1d51eb9",
-          "sha256": "515aedcad1a7e730902c15dea21f71f91accdc60e0def5e8e0a689d82dbcd15c",
-          "sha1": "0c41de9a6ebaf27236a712009e0aa9e99cd09e8b",
-          "md5": "b144522eb7a01da260a80bcc1715b46b"
+          "sha512": "8efccd24b881d9a447d3d5256bf454de83018ec296d93925eb058b1b3f3ec1fd11a89ec7aa02af156fb4183527412555b6603149c5342f6798478ccf1f5a43dd",
+          "sha256": "6e204ff00d94315841a27e041c85f2e5044e63985e0d0f5087d9aa83bacadfe9",
+          "sha1": "fb66d7ef0c5e33ebf6df8303ecb8b3f109e211d9",
+          "md5": "20ffacd748d9dd3d32b41b309d86b1dd"
         }
       ]
     },
@@ -113,10 +113,10 @@
           "name": "core-ng-test-9.1.2-b0.jar",
           "url": "core-ng-test-9.1.2-b0.jar",
           "size": 45686,
-          "sha512": "3a23ad90ad1598e2d2defc2f6f14c1e4a57e51a7a3c726884ed155b7fb2133a8f8bc1932f8bc79be6e94e52c8b61cbaecd6aef0534982322d39ccbc4d1d51eb9",
-          "sha256": "515aedcad1a7e730902c15dea21f71f91accdc60e0def5e8e0a689d82dbcd15c",
-          "sha1": "0c41de9a6ebaf27236a712009e0aa9e99cd09e8b",
-          "md5": "b144522eb7a01da260a80bcc1715b46b"
+          "sha512": "8efccd24b881d9a447d3d5256bf454de83018ec296d93925eb058b1b3f3ec1fd11a89ec7aa02af156fb4183527412555b6603149c5342f6798478ccf1f5a43dd",
+          "sha256": "6e204ff00d94315841a27e041c85f2e5044e63985e0d0f5087d9aa83bacadfe9",
+          "sha1": "fb66d7ef0c5e33ebf6df8303ecb8b3f109e211d9",
+          "md5": "20ffacd748d9dd3d32b41b309d86b1dd"
         }
       ]
     },
@@ -133,10 +133,10 @@
           "name": "core-ng-test-9.1.2-b0-sources.jar",
           "url": "core-ng-test-9.1.2-b0-sources.jar",
           "size": 22204,
-          "sha512": "1ac62ebc6d6bf82e1fcd98b9f23008c2656ae54e3c56a52e0ebf94ae3606974b69e8c412db544634e6a9e224b2050799d009c6e53c5569b879849f96f9608dc5",
-          "sha256": "a2e1149bd069e0b79a73b63711319258c2ea699c3566b624eead2b4b2dd8e8bc",
-          "sha1": "690933d7733b0f9a374df5e562539a09f0f23b5f",
-          "md5": "a60f4afa2bf49fbd14060d0d3f14fc5c"
+          "sha512": "7787a2e2f633a783991b58e0aaa6bcceb55541d865f4cbf3de00de3dfa9531532d2f53004ced489aa9be05da383a103beb6b81fa275bcadfdbc4f9cabf59ead1",
+          "sha256": "21f6d89f17b3bcc7ff9f5d71666b29ddf1045e0c712d3e07e7545b6a3aef64f2",
+          "sha1": "0a05cad930c0f30cd1163a15aed43727c0428fbb",
+          "md5": "f09b8edf5e0347ea03601a1c24a9e621"
         }
       ]
     }

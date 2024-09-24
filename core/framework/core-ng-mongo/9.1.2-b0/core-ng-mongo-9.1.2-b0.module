@@ -44,10 +44,10 @@
           "name": "core-ng-mongo-9.1.2-b0.jar",
           "url": "core-ng-mongo-9.1.2-b0.jar",
           "size": 57159,
-          "sha512": "7514d7955b507188c0c5e314304ace2b15fcc635a88d559e8050f2c402dcc2c81f9ab5594285d7f36c810f864e932d643547f064dec6272cb0e2c43576aa4d50",
-          "sha256": "0b30d49a330990845387885ad97c26e322a524ffb420355c2a4113fe79ad1e7d",
-          "sha1": "efc5becbf74b4949f073e72e1e2df54a2d77feb6",
-          "md5": "84a9f2c2d288541a7dacd727a9cd5cd1"
+          "sha512": "1f8be0c37fd9c5f5c06147f3ca9df1f18cbb7084cfb8be5991f407a4d658e036ba92d6cd6abf2e3f2d6db863e68c9cd143bc26d3a36e653a51110ae6feacaa55",
+          "sha256": "e8900ac35be9ac3612ce2161b3b3b3902b46faab869cf502ff96e8895ce84d5c",
+          "sha1": "3d0748aad88600cb8d68bbcfaf5ee615e0ab8577",
+          "md5": "605f602f5bc6b21c2f169d20ab632440"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "core-ng-mongo-9.1.2-b0.jar",
           "url": "core-ng-mongo-9.1.2-b0.jar",
           "size": 57159,
-          "sha512": "7514d7955b507188c0c5e314304ace2b15fcc635a88d559e8050f2c402dcc2c81f9ab5594285d7f36c810f864e932d643547f064dec6272cb0e2c43576aa4d50",
-          "sha256": "0b30d49a330990845387885ad97c26e322a524ffb420355c2a4113fe79ad1e7d",
-          "sha1": "efc5becbf74b4949f073e72e1e2df54a2d77feb6",
-          "md5": "84a9f2c2d288541a7dacd727a9cd5cd1"
+          "sha512": "1f8be0c37fd9c5f5c06147f3ca9df1f18cbb7084cfb8be5991f407a4d658e036ba92d6cd6abf2e3f2d6db863e68c9cd143bc26d3a36e653a51110ae6feacaa55",
+          "sha256": "e8900ac35be9ac3612ce2161b3b3b3902b46faab869cf502ff96e8895ce84d5c",
+          "sha1": "3d0748aad88600cb8d68bbcfaf5ee615e0ab8577",
+          "md5": "605f602f5bc6b21c2f169d20ab632440"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "core-ng-mongo-9.1.2-b0-sources.jar",
           "url": "core-ng-mongo-9.1.2-b0-sources.jar",
           "size": 27016,
-          "sha512": "db745dc39f20833474c080c1f916430a0b8925f1836e6a52aced50131b06e2c48a52108471c8c54b8ab33b2f660f221d3272470dead95bf74dd9b2e8c0d6e4e9",
-          "sha256": "facd99c8137e9799aee3c71f75eff0efe6195e462f44f1b5382d0db021bee110",
-          "sha1": "7d3b8c70538e4797c0c84f3609bd3b6dae09a6f2",
-          "md5": "0de37a411cf64c8a764e2995ba013670"
+          "sha512": "70557bac833751751f7fc9b8fce6dae8fac5bf479a89151e4757b87f9d72a2bbb64453da9ab70f2a1834d417fa337ff5eb9d2ce118f8e9eddd9e2929ee04fb24",
+          "sha256": "28b3d2d9d58a42338e80719b864bfee1341caccfd93764da2326f82eee14126c",
+          "sha1": "e3466e2627e733dc3264793a62f14eb9a63919f2",
+          "md5": "c527a80bd90b7a686657a34bdee27220"
         }
       ]
     }
