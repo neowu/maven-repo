@@ -1,0 +1,144 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-test",
+    "version": "9.1.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.junit.jupiter",
+          "module": "junit-jupiter-api",
+          "version": {
+            "requires": "5.11.1"
+          }
+        },
+        {
+          "group": "org.mockito",
+          "module": "mockito-junit-jupiter",
+          "version": {
+            "requires": "5.14.0"
+          }
+        },
+        {
+          "group": "org.assertj",
+          "module": "assertj-core",
+          "version": {
+            "requires": "3.26.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-test-9.1.3.jar",
+          "url": "core-ng-test-9.1.3.jar",
+          "size": 47329,
+          "sha512": "90f2243aeb817178ebaf1c01ec2df5431ac1428c0cbb8faea123e68eb557f63ff8fdbb4605d826402734b1a96404876bb08dcf59b94538c9824244fb765dbdd0",
+          "sha256": "2c896b089377cd56974b7051a065e25b7ba886dad85e0aee3d42bf741a38f3c6",
+          "sha1": "22c596defa18cc4bc812fd58889ba954047ae70b",
+          "md5": "e519aa2b90d2fa0802eda6ae06bb303c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.1.3"
+          }
+        },
+        {
+          "group": "org.junit.jupiter",
+          "module": "junit-jupiter-engine",
+          "version": {
+            "requires": "5.11.1"
+          }
+        },
+        {
+          "group": "org.junit.platform",
+          "module": "junit-platform-launcher"
+        },
+        {
+          "group": "org.junit.jupiter",
+          "module": "junit-jupiter-api",
+          "version": {
+            "requires": "5.11.1"
+          }
+        },
+        {
+          "group": "org.mockito",
+          "module": "mockito-junit-jupiter",
+          "version": {
+            "requires": "5.14.0"
+          }
+        },
+        {
+          "group": "org.assertj",
+          "module": "assertj-core",
+          "version": {
+            "requires": "3.26.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-test-9.1.3.jar",
+          "url": "core-ng-test-9.1.3.jar",
+          "size": 47329,
+          "sha512": "90f2243aeb817178ebaf1c01ec2df5431ac1428c0cbb8faea123e68eb557f63ff8fdbb4605d826402734b1a96404876bb08dcf59b94538c9824244fb765dbdd0",
+          "sha256": "2c896b089377cd56974b7051a065e25b7ba886dad85e0aee3d42bf741a38f3c6",
+          "sha1": "22c596defa18cc4bc812fd58889ba954047ae70b",
+          "md5": "e519aa2b90d2fa0802eda6ae06bb303c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-test-9.1.3-sources.jar",
+          "url": "core-ng-test-9.1.3-sources.jar",
+          "size": 22553,
+          "sha512": "f4dfe60fe8e61007c91108456c928f0475b6cefa82630ba145299e24e3a27f87556606c7c8c45315c5b242814a7a7b6b5b95fcdfe462d9cb32fc41c325999e9f",
+          "sha256": "61e4f42273b4fa988a0e305c47b3e478d463c49ac8edb1d4ded849e5e76ea9f6",
+          "sha1": "689b819fe89bc78a1c552b5a53920850343fb6db",
+          "md5": "5d69c1c551b5dd43a3d531f6bfbb4399"
+        }
+      ]
+    }
+  ]
+}
