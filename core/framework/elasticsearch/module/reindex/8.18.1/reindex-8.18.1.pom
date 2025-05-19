@@ -11,7 +11,7 @@
       <version>8.18.1</version>
     </dependency>
     <dependency>
-      <groupId>org.elasticsearch</groupId>
+      <groupId>org.elasticsearch.client</groupId>
       <artifactId>elasticsearch-rest-client</artifactId>
       <version>8.18.1</version>
     </dependency>
