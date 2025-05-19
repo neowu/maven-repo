@@ -1,0 +1,138 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-search",
+    "version": "9.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 24,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.2.0"
+          }
+        },
+        {
+          "group": "co.elastic.clients",
+          "module": "elasticsearch-java",
+          "version": {
+            "requires": "9.0.0"
+          },
+          "excludes": [
+            {
+              "group": "io.opentelemetry",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-search-9.2.0.jar",
+          "url": "core-ng-search-9.2.0.jar",
+          "size": 55311,
+          "sha512": "441f0d7dcd6e4c15b616db15ad28c72e9eea4af12b195e1bab4c5a575045c921cfe67579174c87842633a7b6c7effe4f3c306df4e70c65be71b40174c44d686a",
+          "sha256": "3ae564d991d1e309fe66b85fa19216cb0b8b1f1d43d97d90315c8d6301ab0801",
+          "sha1": "e5d400a6c139d00a6cfe4672e0e584ea193f8a73",
+          "md5": "c5f029875183913fdeec8a1e106f41bf"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 24,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "commons-logging",
+          "module": "commons-logging",
+          "version": {
+            "requires": "1.3.5"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.18.3"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.2.0"
+          }
+        },
+        {
+          "group": "co.elastic.clients",
+          "module": "elasticsearch-java",
+          "version": {
+            "requires": "9.0.0"
+          },
+          "excludes": [
+            {
+              "group": "io.opentelemetry",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-search-9.2.0.jar",
+          "url": "core-ng-search-9.2.0.jar",
+          "size": 55311,
+          "sha512": "441f0d7dcd6e4c15b616db15ad28c72e9eea4af12b195e1bab4c5a575045c921cfe67579174c87842633a7b6c7effe4f3c306df4e70c65be71b40174c44d686a",
+          "sha256": "3ae564d991d1e309fe66b85fa19216cb0b8b1f1d43d97d90315c8d6301ab0801",
+          "sha1": "e5d400a6c139d00a6cfe4672e0e584ea193f8a73",
+          "md5": "c5f029875183913fdeec8a1e106f41bf"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-search-9.2.0-sources.jar",
+          "url": "core-ng-search-9.2.0-sources.jar",
+          "size": 22259,
+          "sha512": "25326b3db5d9ea6db516a31d8da70f9739910a9f91df56d875de28c1a1cd6f5cd889267ca8896cb12fe2eb95e49fe2669c1575194dce0607a036dd7bcc59429b",
+          "sha256": "46f22af83170527a1185e1ad8b5a3700ac539d1ffe3183bf7d48c43221dc6cca",
+          "sha1": "08604dcdc9a0e565e64889479039b159ef832b56",
+          "md5": "ce75af74b36353dc6d19af441aab343d"
+        }
+      ]
+    }
+  ]
+}
