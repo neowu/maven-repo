@@ -1,0 +1,131 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-search",
+    "version": "9.2.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.0.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 24,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.2.3"
+          }
+        },
+        {
+          "group": "co.elastic.clients",
+          "module": "elasticsearch-java",
+          "version": {
+            "requires": "8.18.1"
+          },
+          "excludes": [
+            {
+              "group": "io.opentelemetry",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-search-9.2.3.jar",
+          "url": "core-ng-search-9.2.3.jar",
+          "size": 55958,
+          "sha512": "550699eb7e0d8bd0964d3ff31fb6a2ca496b5a2458028773e0dc8baf703743162f1391fa7b5152cb632929ae7ec19cd6ffbf6f19fa8ff489a0c6061816c23651",
+          "sha256": "57d11822fc81ede4716845b43cf32e5f05d86015a07673056b336531df5fc5ab",
+          "sha1": "f8b770e18f6c791f034a78f4f609b41b4d4eef85",
+          "md5": "60dedde576fea311545ef21f8b7fa170"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 24,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.18.4"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.2.3"
+          }
+        },
+        {
+          "group": "co.elastic.clients",
+          "module": "elasticsearch-java",
+          "version": {
+            "requires": "8.18.1"
+          },
+          "excludes": [
+            {
+              "group": "io.opentelemetry",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-search-9.2.3.jar",
+          "url": "core-ng-search-9.2.3.jar",
+          "size": 55958,
+          "sha512": "550699eb7e0d8bd0964d3ff31fb6a2ca496b5a2458028773e0dc8baf703743162f1391fa7b5152cb632929ae7ec19cd6ffbf6f19fa8ff489a0c6061816c23651",
+          "sha256": "57d11822fc81ede4716845b43cf32e5f05d86015a07673056b336531df5fc5ab",
+          "sha1": "f8b770e18f6c791f034a78f4f609b41b4d4eef85",
+          "md5": "60dedde576fea311545ef21f8b7fa170"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-search-9.2.3-sources.jar",
+          "url": "core-ng-search-9.2.3-sources.jar",
+          "size": 23509,
+          "sha512": "948ddec538f24fec390bd859f3737bc1badc89b8adc5432f0fcf97274a379871a54f0538cf42e00efd9f704a14d4542b6d2797368fb3884a646ef7ac53fa3df5",
+          "sha256": "19c4a1d30ba74204a81be14ef3ce6b13ab7d2cac272b9dba907d7bd51d0ee75e",
+          "sha1": "365ef1978581d5aa8ce1bd2381cfe3f463caa644",
+          "md5": "4afac97b69637963961393aa9cef8531"
+        }
+      ]
+    }
+  ]
+}
