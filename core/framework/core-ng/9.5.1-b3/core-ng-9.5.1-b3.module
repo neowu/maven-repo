@@ -1,0 +1,164 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng",
+    "version": "9.5.1-b3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.4.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng-api",
+          "version": {
+            "requires": "9.5.1-b3"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.17"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-9.5.1-b3.jar",
+          "url": "core-ng-9.5.1-b3.jar",
+          "size": 789769,
+          "sha512": "72f69ffa40d7b538669a62507d21ea7de4cebc0af22794683e5102538410874868ab6965af182b4cca2517d03e526a61a63967eb96e1333bc63032984e6e7404",
+          "sha256": "f8c00080fa8f27aa481067a2ca557561ff20eadf347abd0b166b800fd3c3e133",
+          "sha1": "9d996f53f713f9858508f9676e3a25a221ad3922",
+          "md5": "4c84415ef0ba30163a1e4e3d4fa6565c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.javassist",
+          "module": "javassist",
+          "version": {
+            "requires": "3.30.2-GA"
+          }
+        },
+        {
+          "group": "tools.jackson.module",
+          "module": "jackson-module-afterburner",
+          "version": {
+            "requires": "3.1.0"
+          }
+        },
+        {
+          "group": "tools.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "3.1.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "5.3.2"
+          }
+        },
+        {
+          "group": "io.undertow",
+          "module": "undertow-core",
+          "version": {
+            "requires": "2.3.24.Final"
+          }
+        },
+        {
+          "group": "org.apache.kafka",
+          "module": "kafka-clients",
+          "version": {
+            "requires": "4.2.0"
+          },
+          "excludes": [
+            {
+              "group": "org.xerial.snappy",
+              "module": "*"
+            },
+            {
+              "group": "at.yawk.lz4",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng-api",
+          "version": {
+            "requires": "9.5.1-b3"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.17"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-9.5.1-b3.jar",
+          "url": "core-ng-9.5.1-b3.jar",
+          "size": 789769,
+          "sha512": "72f69ffa40d7b538669a62507d21ea7de4cebc0af22794683e5102538410874868ab6965af182b4cca2517d03e526a61a63967eb96e1333bc63032984e6e7404",
+          "sha256": "f8c00080fa8f27aa481067a2ca557561ff20eadf347abd0b166b800fd3c3e133",
+          "sha1": "9d996f53f713f9858508f9676e3a25a221ad3922",
+          "md5": "4c84415ef0ba30163a1e4e3d4fa6565c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-9.5.1-b3-sources.jar",
+          "url": "core-ng-9.5.1-b3-sources.jar",
+          "size": 405945,
+          "sha512": "45a5c6891e8fd324525190176e8521890c5faf59f8be4e9f07432fe36be2033ec3dccfc01198624958817a5d42fd91cee250853c9dcb57b799a8106ee20fad2b",
+          "sha256": "4f59fc5a547162fa64e40bfceaf8634344edec75763d7a9102eec6ea08bb15e3",
+          "sha1": "3be84306371c2650b252594c7f82cf0f56694809",
+          "md5": "99e2a4a7a155ced864c1431f35d088f4"
+        }
+      ]
+    }
+  ]
+}
