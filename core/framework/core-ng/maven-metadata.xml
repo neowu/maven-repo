@@ -3,8 +3,8 @@
   <groupId>core.framework</groupId>
   <artifactId>core-ng</artifactId>
   <versioning>
-    <latest>9.5.1-b0</latest>
-    <release>9.5.1-b0</release>
+    <latest>9.5.1-b1</latest>
+    <release>9.5.1-b1</release>
     <versions>
       <version>9.1.0</version>
       <version>9.1.1</version>
@@ -25,7 +25,8 @@
       <version>9.4.2</version>
       <version>9.5.0</version>
       <version>9.5.1-b0</version>
+      <version>9.5.1-b1</version>
     </versions>
-    <lastUpdated>20260410015541</lastUpdated>
+    <lastUpdated>20260410154903</lastUpdated>
   </versioning>
 </metadata>
