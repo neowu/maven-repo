@@ -1,0 +1,98 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "core.framework",
+    "module": "core-ng-api",
+    "version": "9.6.1-b1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.6.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jspecify",
+          "module": "jspecify",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-api-9.6.1-b1.jar",
+          "url": "core-ng-api-9.6.1-b1.jar",
+          "size": 11018,
+          "sha512": "4691ecc740badc581a8831a8c94ee0381365d057fc194ab93d62ac459c543fba2660ad38ef631f029eb4c495cf822962bee5f76d8b8aca117d2111f7a724d387",
+          "sha256": "253fc2609ab907a136cbe0f488e0931806c6e3ade1df06ebdcdc7c147cbee925",
+          "sha1": "e240e85227cd1e47fbd413a4f6c99768c8bd7884",
+          "md5": "4c86ca052d0e03ee055e5c1fd3de9fb8"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jspecify",
+          "module": "jspecify",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ng-api-9.6.1-b1.jar",
+          "url": "core-ng-api-9.6.1-b1.jar",
+          "size": 11018,
+          "sha512": "4691ecc740badc581a8831a8c94ee0381365d057fc194ab93d62ac459c543fba2660ad38ef631f029eb4c495cf822962bee5f76d8b8aca117d2111f7a724d387",
+          "sha256": "253fc2609ab907a136cbe0f488e0931806c6e3ade1df06ebdcdc7c147cbee925",
+          "sha1": "e240e85227cd1e47fbd413a4f6c99768c8bd7884",
+          "md5": "4c86ca052d0e03ee055e5c1fd3de9fb8"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ng-api-9.6.1-b1-sources.jar",
+          "url": "core-ng-api-9.6.1-b1-sources.jar",
+          "size": 8663,
+          "sha512": "14080d9db8108e691836ef7cb4dc09d7a8eedbef88405381aeb4d64188aefb9e25b9b9fafee535f59e286ec8baf830cef515961e0d42e1c03502321656fca2f8",
+          "sha256": "0aae8d880cf7f9784e5c9cbb977c2d3f1f12a78175c34eeea95405c13130a3a9",
+          "sha1": "2170eddc2a7d2cb95165e23d0efa0d547cc85531",
+          "md5": "04dfaad28d0dca07dd2f05073520c54c"
+        }
+      ]
+    }
+  ]
+}
